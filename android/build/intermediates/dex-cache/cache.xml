@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/common-1.1.0_d9588566c578ed02bb549869fa2e879c1d55cef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_2615bcc9286689cefc20404c4e456e0164876621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-splash-screen/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="81545e78a5aef654b2e0aac62b2be5ad8ad7b908">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/ShengXian-react-native-splash-screen-unspecified_88a15214c41f372bf81b6ce47aaf0f6c2f595f9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.1.0_2e2b4a2d41f1a0a78480adc675236c164d7f9581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_17e705e6c7cc199c0284b1b48ab5e0e4f1c721ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/livedata-core/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-livedata-core-1.1.0_63bd971c0758cbece1f7b625645a5bd138e8d2f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-image-crop-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cbffa6f41f7e23a2aa6c54384432e3e3d82234b0">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/ShengXian-react-native-image-crop-picker-unspecified_acf6afe4b2865130c151c784fd6d3bbc193fbc66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_a009647042ea6f434e12be92a8046d7458bda2e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-smart-amap-location/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9674a3f9f6ab45aed203cd62aef8eb016302b09">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/ShengXian-react-native-smart-amap-location-unspecified_fd5874a39cfbedeb988048f0900f77101698969f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_3bfea9990251ef6e5c325db5afbc2ca5131a1f3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-fs/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fc05ceea27b9bc77d308dec8983e63a21e23de01">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/ShengXian-react-native-fs-unspecified_69d14fb6c2f7aee15814108f406b7981198fe9f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.2/c592b500269bfde36096641b01238a8350f8aa31/accessors-smart-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c592b500269bfde36096641b01238a8350f8aa31">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/accessors-smart-1.2_70e8d40ecbe7f83a47660c6c426d33507eab0cc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e77827789a3d5ad6a02b89d4a0e9efb308a96c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_f8db7554cb641c02ac0bbb53d0d051da80a0fc76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/viewmodel/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-viewmodel-1.1.0_074a9f380346a9f3f4d1b04eaa6118334aa318d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/android.arch.core/runtime/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/android.arch.core-runtime-1.1.0_dd048b8e7404e20b3106e4f89b696e3002e57763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-alipay/unspecified/jars/libs/alipaySdk-20160223.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3ec5c0bdd523843f88c9e8c5567272fe21e15ec7">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/alipaySdk-20160223_940535a275209004bd4c652f02740047e94d27bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.1.0_7fa1f1def647fd375d4314bd01c357dbcecb8e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-wechat/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="213b6f2ff8a77c20ac374430a5868a2ddca2f4e1">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/ShengXian-react-native-wechat-unspecified_c1eb0fb55be9b4e5060165288e9415f280cd5eba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_71946b820850336152e8f4bae573b0b81179758f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f768861356f4cd8613da447181fd15c3f584f52d">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.4_754abe2c3f451bd5b0c8a3fc5ed247e594af00f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2dc548cfd5edba58b8639fb9bd160fdb374115b6">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/ShengXian-react-native-linear-gradient-unspecified_d7aed340a26ed61bb0fe127a3517aaf26b41e66c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-gif/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5f79b1232c817718a764464331f75b7c6b0b4da2">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-animated-gif-1.3.0_47cd4ed3e2f01f2db708a4810a71086073f037c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.1.0_136b3169a636fb8f078e296ddfbde2f64bf24a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_321c10155f87aad5f595c26f074c5edaf033797d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.1.0_ed441f9f0bbb77dd2fa7435bd8ba86b569948f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="340798d8fb217f4951dd88c198fe6097c6b3405e">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/ShengXian-react-native-image-picker-unspecified_a61731bb09d2a23e315115501f9247fae5b377b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.2-native/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3bed41dc3164f618b7c22f37116f60b2017046e7">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.github.yalantis-ucrop-2.2.2-native_9a5a215840a1f295079b4bcca29fc278aa76d916.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-code-push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2fc8f12c65d4c67c0d663874476f1947898c5c19">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/ShengXian-react-native-code-push-unspecified_36016ace1f59b29366fdcaead67d05aa1233f596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_94aec29ec4f6fff9f94238006d4fde3ce7e67551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-alipay/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7ab2f85a5bcc513495053f627e6da23b8909c870">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/ShengXian-react-native-alipay-unspecified_4df797abf7f7974d5b0f53c5373fa12c56d3ecf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.1.0_1a0dde899aabeeb59f443cfb91483c7e7dbf394d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.github.stephenc.jcip/jcip-annotations/1.0-1/ef31541dd28ae2cefdd17c7ebf352d93e9058c63/jcip-annotations-1.0-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ef31541dd28ae2cefdd17c7ebf352d93e9058c63">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/jcip-annotations-1.0-1_06daebf802e9c272d5998c96f86592d537b72253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_12c10f99d8261145befc62b08ad5043d7948d197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-smart-amap/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3239a362bbf90132c082c6e7b1d1731c77911885">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/ShengXian-react-native-smart-amap-unspecified_5734f1ba950cc64b3f71d195c84ec501f27175fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4baa82930a33f8934bd19ba1319846b3f3e44a38">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/ShengXian-react-native-picker-unspecified_b09d8934589da69299e317b395a5195028e7adea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.1.0_54c49b9d447289899f41ac8a9c05a39fc1c22df7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.amap.api/location/3.1.0/bd57103bd88f0f9ae21c8531cc18c6dce172cc2a/location-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bd57103bd88f0f9ae21c8531cc18c6dce172cc2a">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/location-3.1.0_a99d4b0d52c5650632716e834ce4f76f9d03794a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.amap.api/map2d/2.9.1/bab4ed1124e4f4063be5fb5097eabc829d982c37/map2d-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bab4ed1124e4f4063be5fb5097eabc829d982c37">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/map2d-2.9.1_a34616d55920c2de73a3dea18e3a061f16ae1cde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.3/7396407491352ce4fa30de92efb158adb76b5b/json-smart-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="007396407491352ce4fa30de92efb158adb76b5b">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/json-smart-2.3_368122e8a9510f3d42e8d60c4dab107dafe664ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-sound/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3e5a296b3a96416721c5215f25846b9ed5127e16">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/ShengXian-react-native-sound-unspecified_359850f5b051850961cf21bb821579743177002a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/id.zelory/compressor/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/id.zelory-compressor-2.1.0_57e9125167f40e45ccf9ec799ad9dbdc66b0ee79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_65e50840b0fbade8d893c05165d078cd1f03b035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_1e0eda4c93514ae259bfff082ec0b15694356b84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-audio/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="369204cd3492d8f8665f49a61d95dba4b9d2e186">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/ShengXian-react-native-audio-unspecified_fd38e1e2954ef978be0059ca6bac82e29a02f3e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.1.0_a7b17a73b59a2811a6fb437a5e508c52aee12897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/common-1.1.0_205aeb140a4d74ced1c0051d1e26e9dab302a815.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.amap.api/search/3.5.0.1/c92af2298bc2eac395e05139bcfe1a1a51677726/search-3.5.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c92af2298bc2eac395e05139bcfe1a1a51677726">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/search-3.5.0.1_606b85a5a14d1a0996f3cde0605e700e4f723861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_fb932b4c6028be86f846a88abc8a7999dc6a8a38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_fb30a3a347f42a736584d482dee0bf8e8f499a6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-wechat/unspecified/jars/libs/libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b5fe9dcdaca41bdb2874b503a628723c658346c8">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/libammsdk_d9c034e4d7d9f5e1c1f5f5421b86fdb14431f657.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_6f44d923f09e452a88c12a87d6fff8930e9516a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_ad9b188ce7c24ae665a76ec401030a34a04e5ab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/okhttp-3.8.1_d62a150e5365ffe9160fa1998aee90a81af9625e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_a750662f6b16e9260d13389bf7a82d165c30b9ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.1.0_0259f509cdc23141670ac0540efb001b68353616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/ShengXian/react-native-exception-handler/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="51c21e0e8adc24d8a5f918acf371a51fff5ce404">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/ShengXian-react-native-exception-handler-unspecified_01779b8f6b380a3d7b1f08afa2aa27acd4cf75a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.4/da08b8cce7bbf903602a25a3a163ae252435795/asm-5.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0da08b8cce7bbf903602a25a3a163ae252435795">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/asm-5.0.4_e53f58cef757ca94a2283902f28993f457cdc605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.nimbusds/nimbus-jose-jwt/5.1/98dfb9ee74d290afce026a262c6297138a0c8ec4/nimbus-jose-jwt-5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98dfb9ee74d290afce026a262c6297138a0c8ec4">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/nimbus-jose-jwt-5.1_c2377a8201b9335d0b35452862760c9f045023bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ff997c37654bead6c259c0b124d52bdc944f5bff">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-animated-base-1.3.0_6196246259241c61ec3f6e7cc460c1750e5a9019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.1.0_9ae149bf4286bf7508c93bb24c6c7f12e5457f73.jar" />
+    </item>
+
+</items>

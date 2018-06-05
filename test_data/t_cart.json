@@ -1,0 +1,18 @@
+[
+	{
+		"id" : 1,
+		"item_id" : 1,
+		"itemcnt" : 1,
+		"shopid" : 1,
+		"addtime" : "2017-12-04 11:28:57",
+		"guid" : 1
+	},
+	{
+		"id" : 2,
+		"item_id" : 2,
+		"itemcnt" : 1,
+		"shopid" : 1,
+		"addtime" : "2017-12-04 11:29:00",
+		"guid" : 1
+	}
+]

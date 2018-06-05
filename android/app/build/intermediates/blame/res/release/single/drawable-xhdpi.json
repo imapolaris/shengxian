@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/res/merged/release/drawable-xhdpi/intro1.png",
+        "source": "/Users/sunhui/ReactNativeProjects/shengxian/android/app/src/main/res/drawable-xhdpi/intro1.png"
+    },
+    {
+        "merged": "/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/res/merged/release/drawable-xhdpi/intro2.png",
+        "source": "/Users/sunhui/ReactNativeProjects/shengxian/android/app/src/main/res/drawable-xhdpi/intro2.png"
+    },
+    {
+        "merged": "/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/res/merged/release/drawable-xhdpi/intro4.png",
+        "source": "/Users/sunhui/ReactNativeProjects/shengxian/android/app/src/main/res/drawable-xhdpi/intro4.png"
+    },
+    {
+        "merged": "/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/res/merged/release/drawable-xhdpi/default_th.png",
+        "source": "/Users/sunhui/ReactNativeProjects/shengxian/android/app/src/main/res/drawable-xhdpi/default_th.png"
+    },
+    {
+        "merged": "/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/res/merged/release/drawable-xhdpi/intro3.png",
+        "source": "/Users/sunhui/ReactNativeProjects/shengxian/android/app/src/main/res/drawable-xhdpi/intro3.png"
+    },
+    {
+        "merged": "/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/res/merged/release/drawable-xhdpi/shop_tip.png",
+        "source": "/Users/sunhui/ReactNativeProjects/shengxian/android/app/src/main/res/drawable-xhdpi/shop_tip.png"
+    },
+    {
+        "merged": "/Users/sunhui/ReactNativeProjects/shengxian/android/app/build/intermediates/res/merged/release/drawable-xhdpi/screen.png",
+        "source": "/Users/sunhui/ReactNativeProjects/shengxian/android/app/src/main/res/drawable-xhdpi/screen.png"
+    }
+]

@@ -1,0 +1,410 @@
+﻿
+{
+	"home": {
+				"topbanner":{ 
+								"desc":"首页第一排广告栏",						
+								"data": 
+								[
+									{
+										"id": 1,
+										"title": "高端日化",
+										"imgurl": "http://image.ylzsc.cn/Resource/files/2017/1706/23/f0752aa9-4f67-4c45-bc15-0b694e3094d6.jpg",
+										"linkurl": "pay",
+										"content": ""
+									},
+									{
+										"id": 2,
+										"title": "高端日化",
+										"imgurl": "http://image.ylzsc.cn/Resource/files/2017/1706/23/f0752aa9-4f67-4c45-bc15-0b694e3094d6.jpg",
+										"linkurl": "pay",
+										"content": ""
+									},
+									{
+										"id": 3,
+										"title": "高端日化",
+										"imgurl": "http://image.ylzsc.cn/Resource/files/2017/1706/23/f0752aa9-4f67-4c45-bc15-0b694e3094d6.jpg",
+										"linkurl": "pay",
+										"content": ""
+									}
+								],				
+								"version": 1							
+							},
+				"shopinfo": [{
+								"desc":"首页获取最近商店",						
+								"id": 1,
+								"title": "七宝店",
+								"phone": "56844256891",
+								"opentime": "07:00-21:00",
+								"addr": "上海普陀区金沙江路1518弄",
+								"city": "上海",
+								"posx": "38.111",
+								"posy": "38.111"
+							}],							
+				"activeitem": { 
+								"desc":"首页活动物品列表",						
+								"data":
+								[
+									{
+										"itemid": 1
+									},
+									{
+										"itemid": 2
+									},
+									{
+										"itemid": 3
+									}
+								],				
+								"version": 1							
+							}
+		},
+		
+		"category": 	{ 
+								"desc":"物品分类",				
+								"data":
+								[
+									{
+										"categoryid" : 1,
+										"title" : "蔬菜"
+									},
+									{
+										"categoryid" : 2,
+										"title" : "肉类"
+									},
+									{
+										"categoryid" : 3,
+										"title" : "蛋类"
+									},
+									{
+										"categoryid" : 4,
+										"title" : "豆制品"
+									},
+									{
+										"categoryid" : 5,
+										"title" : "粮油干货" 
+									}
+								],				
+								"version": 1							
+							},							
+		
+		"carts": 	{ 
+								"desc":"购物车物品列表",		
+								"data":
+								[
+									{
+										"item_id": 2,
+										"itemcnt": 1
+									},
+									{
+										"item_id": 1,
+										"itemcnt": 1
+									}
+								],				
+								"version": 1							
+							},
+		"addrlist": 	{ 
+								"desc":"我的地址列表",	
+								"data":
+								[
+									{
+										"id" : 1,
+										"guid" : 1,
+										"name" : "张1",
+										"sex" : 0,
+										"phone" : 15151510866,
+										"city" : 0,
+										"area" : "北京市东城区2号线;(在建)8号线前门(地铁站)",
+										"address" : "55号",
+										"tag" : 0,
+										"realx" : 39.9065,
+										"realy" : 116.404,
+										"isdefault" : 1
+									},
+									{
+										"id" : 2,
+										"guid" : 2,
+										"name" : "张三",
+										"sex" : 1,
+										"phone" : 15618456562,
+										"city" : 0,
+										"area" : "上海普陀区金沙江路1518弄2号楼616室",
+										"address" : "11",
+										"tag" : 0,
+										"realx" : 30,
+										"realy" : 25
+									}
+								],				
+								"version": 1							
+							}	,
+		"coupon": 	{ 
+								"desc":"我的优惠卷列表",		
+								"data":
+								[
+									{
+										"id" : 696,
+										"title" : "通用优惠卷",
+										"type" : 0,
+										"endtime" : "2017-07-22 17:19:27",
+										"money" : 5,
+										"lowmoney" : 30
+									},
+									{
+										"id" : 697,
+										"title" : "蔬菜优惠卷",
+										"type" : 1,
+										"endtime" : "2017-12-05 11:27:10",
+										"money" : 5,
+										"lowmoney" : 30
+									}
+								],				
+								"version": 1							
+							}	,
+		"hotkeyword": 	{ 
+								"desc":"搜索关键字",		
+								"data":
+								[	"丝瓜","肉","香菜","豆腐","长粒香米","玉米"],				
+								"version": 1							
+							},
+		"recharge": 	{ 
+								"desc":"充值档次列表",
+								"data":
+								[	
+									{										
+										"money" : 100,
+										"givemoney" : 10
+									},
+									{
+										"money" : 200,
+										"givemoney" : 30
+									},
+									{
+										"money" : 300,
+										"givemoney" : 60
+									},
+									{
+										"money" : 500,
+										"givemoney" : 100
+									},
+									{
+										"money" : 1000,
+										"givemoney" : 200
+									},
+									{
+										"money" : 2000,
+										"givemoney" : 500
+									}
+								],				
+								"version": 1							
+							}								,							
+		"itemdynamic": { 
+							"desc":"一登录的时候，查询所有物品动态信息，",
+							"data":
+							[
+								{
+									"itemid": 1,
+									
+									"price": 90,
+									"marketprice": 100,
+									"saleprice": 85,
+									
+									"leftcnt": 100,
+									"version": 1
+								},
+								{
+									"itemid": 2,
+									
+									"price": 90,
+									"marketprice": 100,
+									"saleprice": 85,
+									
+									"leftcnt": 100,
+									"version": 1
+								},
+								{
+									"itemid": 3,
+									
+									"price": 90,
+									"marketprice": 100,
+									"saleprice": 85,
+									
+									"leftcnt": 100,
+									"version": 1
+								}
+							],				
+							"version": 1							
+			},
+		"orderlist": { 
+						"desc":"我的订单",
+						"data":
+								[
+									{									
+										"order" : 2147483647,
+										"itemlist" : [
+														{															
+															"itemid": 2,
+															"title" : "柿子椒(青椒)",																								
+															"price": 90,
+															"shortdesc" : "400-600g",
+															"itemcnt": 1,
+															"thumbnailsurll" : "http://172.19.60.211:7071/upload/whitesmall.png"													
+														},
+														{															
+															"itemid": 1,
+															"title" : "柿子椒(青椒)",																								
+															"price": 90,
+															"shortdesc" : "400-600g",
+															"itemcnt": 1,
+															"thumbnailsurll" : "http://172.19.60.211:7071/upload/whitesmall.png"													
+														},
+														{															
+															"itemid": 1,
+															"title" : "柿子椒(青椒)",																								
+															"price": 90,
+															"shortdesc" : "400-600g",
+															"itemcnt": 1,
+															"thumbnailsurll" : "http://172.19.60.211:7071/upload/whitesmall.png"													
+														},
+														{															
+															"itemid": 1,
+															"title" : "柿子椒(青椒)",																								
+															"price": 90,
+															"shortdesc" : "400-600g",
+															"itemcnt": 1,
+															"thumbnailsurll" : "http://172.19.60.211:7071/upload/whitesmall.png"													
+														}
+													],
+										"state" : 0,
+										"couponprice" : 6,
+										"peiprice" : 6,
+										"scoreprice" : 6,
+										"ye" : 6,
+										"productprice" : 56,
+										"lastprice" : 60,
+										"ordertime" : "2017-12-16 16:59:24",
+										"apptime" : "0000-00-00 00:00:00",
+										"name" : "张三",
+										"phone" : 0,
+										"addr" : "上海金沙1518弄6016",
+										"shopid" : 1,
+										"shopname" : "七宝店"
+									},
+									{									
+										"order" : 2147483645,
+										"itemlist" : [
+														{															
+															"itemid": 2,
+															"title" : "柿子椒(青椒)",																								
+															"price": 90,
+															"shortdesc" : "400-600g",
+															"itemcnt": 1,
+															"thumbnailsurll" : "http://172.19.60.211:7071/upload/whitesmall.png"													
+														},
+														{															
+															"itemid": 1,
+															"title" : "柿子椒(青椒)",																								
+															"price": 90,
+															"shortdesc" : "400-600g",
+															"itemcnt": 1,
+															"thumbnailsurll" : "http://172.19.60.211:7071/upload/whitesmall.png"													
+														},
+														{															
+															"itemid": 1,
+															"title" : "柿子椒(青椒)",																								
+															"price": 90,
+															"shortdesc" : "400-600g",
+															"itemcnt": 1,
+															"thumbnailsurll" : "http://172.19.60.211:7071/upload/whitesmall.png"													
+														},
+														{															
+															"itemid": 1,
+															"title" : "柿子椒(青椒)",																								
+															"price": 90,
+															"shortdesc" : "400-600g",
+															"itemcnt": 1,
+															"thumbnailsurll" : "http://172.19.60.211:7071/upload/whitesmall.png"													
+														}
+													],
+										"state" : 0,
+										"couponprice" : 6,
+										"peiprice" : 6,
+										"scoreprice" : 6,
+										"ye" : 6,
+										"productprice" : 56,
+										"lastprice" : 60,
+										"ordertime" : "2017-12-16 16:59:24",
+										"apptime" : "0000-00-00 00:00:00",
+										"name" : "张三",
+										"phone" : 0,
+										"addr" : "上海金沙1518弄6016",
+										"shopid" : 1,
+										"shopname" : "七宝店"
+									},
+									{									
+										"order" : 2147483645,
+										"itemlist" : [
+														{															
+															"itemid": 2,
+															"title" : "柿子椒(青椒)",																								
+															"price": 90,
+															"shortdesc" : "400-600g",
+															"itemcnt": 1,
+															"thumbnailsurll" : "http://172.19.60.211:7071/upload/whitesmall.png"													
+														},
+														{															
+															"itemid": 1,
+															"title" : "柿子椒(青椒)",																								
+															"price": 90,
+															"shortdesc" : "400-600g",
+															"itemcnt": 1,
+															"thumbnailsurll" : "http://172.19.60.211:7071/upload/whitesmall.png"													
+														},
+														{															
+															"itemid": 1,
+															"title" : "柿子椒(青椒)",																								
+															"price": 90,
+															"shortdesc" : "400-600g",
+															"itemcnt": 1,
+															"thumbnailsurll" : "http://172.19.60.211:7071/upload/whitesmall.png"													
+														},
+														{															
+															"itemid": 1,
+															"title" : "柿子椒(青椒)",																								
+															"price": 90,
+															"shortdesc" : "400-600g",
+															"itemcnt": 1,
+															"thumbnailsurll" : "http://172.19.60.211:7071/upload/whitesmall.png"													
+														}
+													],
+										"state" : 0,
+										"couponprice" : 6,
+										"peiprice" : 6,
+										"scoreprice" : 6,
+										"ye" : 6,
+										"productprice" : 56,
+										"lastprice" : 60,
+										"ordertime" : "2017-12-16 16:59:24",
+										"apptime" : "0000-00-00 00:00:00",
+										"name" : "张三",
+										"phone" : 0,
+										"addr" : "上海金沙1518弄6016",
+										"shopid" : 1,
+										"shopname" : "七宝店"
+									}
+								],				
+						"version": 1							
+		}
+						
+
+		"my":{ 
+								"desc":"我的页面",						
+								"data": 
+								{
+									"userid": 125,
+									"title": "青春无悔",
+									"phone": "15656562359",
+									"headurl": "http://image.ylzsc.cn/Resource/files/2017/1706/23/f0752aa9-4f67-4c45-bc15-0b694e3094d6.jpg",
+									"money": 125,
+									"couponcnt": 2
+								},				
+								"version": 1							
+							},						
+}

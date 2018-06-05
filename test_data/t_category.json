@@ -1,0 +1,123 @@
+[
+	{
+		"id" : 1,
+		"parent_id" : 0,
+		"title" : "蔬菜",
+		"avatar" : null,
+		"is_valid" : 1,
+		"icon" : null,
+		"order" : 2,
+		"created_at" : "2017-12-20 15:53:47",
+		"updated_at" : "2017-12-20 15:49:23"
+	},
+	{
+		"id" : 2,
+		"parent_id" : 0,
+		"title" : "肉类",
+		"avatar" : "/upload/image/2017-12-20/7027eef3d02807f0122ea04e751ad199.jpeg",
+		"is_valid" : 0,
+		"icon" : null,
+		"order" : 1,
+		"created_at" : "2017-12-20 15:53:49",
+		"updated_at" : "2017-12-20 15:53:34"
+	},
+	{
+		"id" : 3,
+		"parent_id" : 0,
+		"title" : "蛋类",
+		"avatar" : null,
+		"is_valid" : 0,
+		"icon" : null,
+		"order" : 3,
+		"created_at" : "2017-12-20 15:53:51",
+		"updated_at" : "2017-12-20 15:49:23"
+	},
+	{
+		"id" : 4,
+		"parent_id" : 0,
+		"title" : "豆制品",
+		"avatar" : null,
+		"is_valid" : 0,
+		"icon" : null,
+		"order" : 4,
+		"created_at" : "2017-12-20 15:53:53",
+		"updated_at" : "2017-12-20 15:49:23"
+	},
+	{
+		"id" : 5,
+		"parent_id" : 0,
+		"title" : "粮油干货",
+		"avatar" : null,
+		"is_valid" : 0,
+		"icon" : null,
+		"order" : 5,
+		"created_at" : "2017-12-20 15:53:55",
+		"updated_at" : "2017-12-20 15:49:23"
+	},
+	{
+		"id" : 101,
+		"parent_id" : 2,
+		"title" : "促销",
+		"avatar" : null,
+		"is_valid" : 0,
+		"icon" : null,
+		"order" : 99999,
+		"created_at" : "2017-12-20 15:57:03",
+		"updated_at" : "2017-12-20 15:57:03"
+	},
+	{
+		"id" : 102,
+		"parent_id" : 2,
+		"title" : "叶菜类",
+		"avatar" : null,
+		"is_valid" : 0,
+		"icon" : null,
+		"order" : 99999,
+		"created_at" : "2017-12-20 15:57:11",
+		"updated_at" : "2017-12-20 15:57:11"
+	},
+	{
+		"id" : 103,
+		"parent_id" : 2,
+		"title" : "根茎类",
+		"avatar" : null,
+		"is_valid" : 0,
+		"icon" : null,
+		"order" : 99999,
+		"created_at" : "2017-12-20 16:02:14",
+		"updated_at" : "2017-12-20 16:02:14"
+	},
+	{
+		"id" : 104,
+		"parent_id" : 1,
+		"title" : "促销",
+		"avatar" : null,
+		"is_valid" : 0,
+		"icon" : null,
+		"order" : 99999,
+		"created_at" : "2017-12-20 17:18:28",
+		"updated_at" : "2017-12-20 17:18:28"
+	},
+	{
+		"id" : 105,
+		"parent_id" : 1,
+		"title" : "苹果梨",
+		"avatar" : null,
+		"is_valid" : 0,
+		"icon" : null,
+		"order" : 99999,
+		"created_at" : "2017-12-20 17:18:35",
+		"updated_at" : "2017-12-20 17:18:35"
+	},
+	{
+		"id" : 106,
+		"parent_id" : 1,
+		"title" : "瓜类",
+		"avatar" : null,
+		"is_valid" : 0,
+		"icon" : null,
+		"order" : 99999,
+		"created_at" : "2017-12-20 17:18:42",
+		"updated_at" : "2017-12-20 17:18:42"
+	}
+]

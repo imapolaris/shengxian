@@ -1,0 +1,148 @@
+export const LAYOUT_CHANGE  = "LAYOUT_CHANGE";
+export const APP_STARTED  = "APP_STARTED";
+export const CLEAR_CACHE_DATA   = "CLEAR_CACHE_DATA";
+
+export const START_EDIT_CART_ITEM       = "START_EDIT_CART_ITEM";
+export const FINISH_EDIT_CART_ITEM      = "FINISH_EDIT_CART_ITEM";
+
+export const START_ADD_CART_ITEM       = "START_ADD_CART_ITEM";
+export const FINISH_ADD_CART_ITEM      = "FINISH_ADD_CART_ITEM";
+
+export const START_REMOVE_CART_ITEMS    = "START_REMOVE_CART_ITEMS";
+export const FINISH_REMOVE_CART_ITEMS   = "FINISH_REMOVE_CART_ITEMS"
+
+export const START_FETCH_CART_LIST      = "START_FETCH_CART_LIST";        // 获取
+export const FINISH_FETCH_CART_LIST     = "FINISH_FETCH_CART_LIST";
+
+
+export const LOCATION_UPDATE        = "LOCATION_UPDATE";        // 更新地址
+// 切换门店
+export const CHANGE_SHOP            = "CHANGE_SHOP";
+
+
+/**
+ * 高德地图API通过经纬度获取小区地址信息
+ */
+export const ADD_REGEO_DATA = "ADD_REGEO_DATA";
+export const START_SEARCHING_REGEO_DATA = "SEARCHING_REGEO_DATA";
+export const FINISH_SEARCHING_REGEO_DATA = "FINISH_SEARCHING_REGEO_DATA";
+//定位
+export const START_GPS_LOCATION = "START_GPS_LOCATION";
+export const FINISH_GPS_LOCATION = "FINISH_GPS_LOCATION";
+
+//////////////////////////////////////////////////////
+export const UI_SET_ADDR = "UI_SET_ADDR";
+export const UI_UPDATE_ADDR = "UI_UPDATE_ADDR";
+export const UI_CHANGE_ADDR_LOCATION = "UI_CHANGE_ADDR_LOCATION";
+export const UI_CLEAR_ADDR_LOCATION = "UI_CLEAR_ADDR_LOCATION";
+export const UI_SET_AMAP_TYPE = "UI_SET_AMAP_TYPE";
+export const UI_CARTS_SELECT = "UI_CARTS_SELECT";
+export const UI_CARTS_CANCEL_SELECT = "UI_CARTS_CANCEL_SELECT";
+export const UI_CARTS_CLEAR_SELECT = "UI_CARTS_CLEAR_SELECT";
+export const UI_SUBMIT_ORDER_ITEMS = "UI_SUBMIT_ORDER_ITEMS";
+export const UI_SUBMIT_ORDER_ADDR = "UI_SUBMIT_ORDER_ADDR";
+export const UI_SUBMIT_ORDER_TIME = "UI_SUBMIT_ORDER_TIME";
+export const UI_SUBMIT_ORDER_MEMO = "UI_SUBMIT_ORDER_MEMO";
+export const UI_SUBMIT_ORDER_COUPON = "UI_SUBMIT_ORDER_COUPON";
+
+export const UI_MY_ORDER_CAHNGE_TAB  = "UI_MY_ORDER_CAHNGE_TAB";
+
+////////////////////////////////////////////////////
+//收货地址
+//添加
+export const START_ADD_ADDR = "START_ADD_ADDR"
+export const FINISH_ADD_ADDR = "FINISH_ADD_ADDR"
+//删除
+export const START_DELETE_ADDR = "START_DELETE_ADDR"
+export const FINISH_DELETE_ADDR = "FINISH_DELETE_ADDR"
+//修改
+export const START_EDIT_ADDR = "START_EDIT_ADDR"
+export const FINISH_EDIT_ADDR = "FINISH_EDIT_ADDR"
+//获取
+export const START_FETCH_ADDRLIST = "START_FETCH_ADDRLIST"
+export const FINISH_FETCH_ADDRLIST = "FINISH_FETCH_ADDRLIST"
+////////////////////////////////////////////////////
+
+
+// 正在进行http请求
+export const ACTION_HTTP_REQUESTING   = "ACTION_HTTP_REQUESTING";
+// http请求超时的通用处理
+export const ACTION_HTTP_TIMEOUT      = "ACTION_HTTP_TIMEOUT";
+// http错误处理
+export const ACTION_HTTP_ERROR      = "ACTION_HTTP_ERROR";
+// http请求结束
+export const ACTION_HTTP_REQUEST_FINISH   = "ACTION_HTTP_REQUEST_FINISH";
+
+//////////////////////////////////////////////////////////////////////
+//订单
+export const START_NEW_ORDER  = "START_NEW_ORDER";
+export const FINISH_NEW_ORDER = "FINISH_NEW_ORDER";
+
+export const START_FETCH_ORDERLIST = "START_FETCH_ORDERLIST";
+export const FINISH_FETCH_ORDERLIST = "FINISH_FETCH_ORDERLIST";
+//接单
+export const START_TAKE_ORDER = "START_TAKE_ORDER";
+export const FINISH_TAKE_ORDER = "FINISH_TAKE_ORDER";
+//完成订单
+export const START_FINISH_ORDER = "START_FINISH_ORDER";
+export const FINISH_FINISH_ORDER = "FINISH_FINISH_ORDER";
+export const START_DELETE_ORDER  = "START_DELETE_ORDER";
+export const FINISH_DELETE_ORDER = "FINISH_DELETE_ORDER";
+
+export const START_CANCEL_ORDER  = "START_CANCEL_ORDER";
+export const FINISH_CANCEL_ORDER = "FINISH_CANCEL_ORDER";
+
+export const START_BUY_AGAIN  = "START_BUY_AGAIN";
+export const FINISH_BUY_AGAIN = "FINISH_BUY_AGAIN";
+//////////////////////////////////////////////////////////////////////
+
+//首页
+//topbanner
+export const START_FETCH_TOPBANNER = "START_FETCH_TOPBANNER"
+export const FINISH_FETCH_TOPBANNER = "FINISH_FETCH_TOPBANNER"
+//activeItem
+export const START_FETCH_ACTIVEITEM = "START_FETCH_ACTIVEITEM"
+export const FINISH_FETCH_ACTIVEITEM = "FINISH_FETCH_ACTIVEITEM"
+
+//Category
+export const START_FETCH_CATEGORY = "START_FETCH_CATEGORY"
+export const FINISH_FETCH_CATEGORY = "FINISH_FETCH_CATEGORY"
+
+//Coupon
+export const START_FETCH_COUPON = "START_FETCH_COUPON"
+export const FINISH_FETCH_COUPON = "FINISH_FETCH_COUPON"
+export const SELECT_COUPON = "SELECT_COUPON"
+//My
+export const START_FETCH_MY = "START_FETCH_MY"
+export const FINISH_FETCH_MY = "FINISH_FETCH_MY"
+
+//ItemDynamic
+export const START_FETCH_ITEMDYNAMIC = "START_FETCH_ITEMDYNAMIC"
+export const FINISH_FETCH_ITEMDYNAMIC = "FINISH_FETCH_ITEMDYNAMIC"
+
+//Search
+export const START_FETCH_SEARCH = "START_FETCH_SEARCH"
+export const CLEAR_SEARCH = "CLEAR_SEARCH"
+
+//支付
+export const USER_PAY_ALI   = "USER_PAY_ALI";
+export const USER_PAY_WECHAT   = "USER_PAY_WECHAT";
+export const USER_PAY_DAOFU   = "USER_PAY_DAOFU";
+
+//退出登录
+export const USER_LOGIN_WECHAT   = "USER_LOGIN_WECHAT";
+export const USER_LOG_OUT   = "USER_LOG_OUT";
+export const START_USER_LOGIN = "START_USER_LOGIN"
+export const FINISH_USER_LOGIN = "FINISH_USER_LOGIN"
+export const START_USER_GET_VCODE = "START_USER_GET_VCODE"
+export const FINISH_USER_GET_VCODE = "FINISH_USER_GET_VCODE"
+export const USER_ACTIVE_LOG_OUT   = "USER_ACTIVE_LOG_OUT";
+
+//意见反馈
+export const START_FEED_BACK = "START_FEED_BACK"
+export const FINISH_FEED_BACK = "FINISH_FEED_BACK"
+
+// checkauth
+export const START_CHECK_AUTH = "START_CHECK_AUTH"
+export const FINISH_CHECK_AUTH = "FINISH_CHECK_AUTH"
+

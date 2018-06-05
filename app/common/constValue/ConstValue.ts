@@ -1,0 +1,2 @@
+export const CartItemKey = 'CartItemKey';
+

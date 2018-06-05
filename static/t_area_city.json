@@ -1,0 +1,2753 @@
+[
+	{
+		"id" : 1,
+		"area_province_id" : 1,
+		"name" : "市辖区",
+		"created_at" : "2018-01-05 14:22:34",
+		"updated_at" : "2018-01-05 14:22:34"
+	},
+	{
+		"id" : 2,
+		"area_province_id" : 2,
+		"name" : "市辖区",
+		"created_at" : "2018-01-05 14:22:35",
+		"updated_at" : "2018-01-05 14:22:35"
+	},
+	{
+		"id" : 3,
+		"area_province_id" : 3,
+		"name" : "石家庄市",
+		"created_at" : "2018-01-05 14:22:36",
+		"updated_at" : "2018-01-05 14:22:36"
+	},
+	{
+		"id" : 4,
+		"area_province_id" : 3,
+		"name" : "唐山市",
+		"created_at" : "2018-01-05 14:22:37",
+		"updated_at" : "2018-01-05 14:22:37"
+	},
+	{
+		"id" : 5,
+		"area_province_id" : 3,
+		"name" : "秦皇岛市",
+		"created_at" : "2018-01-05 14:22:38",
+		"updated_at" : "2018-01-05 14:22:38"
+	},
+	{
+		"id" : 6,
+		"area_province_id" : 3,
+		"name" : "邯郸市",
+		"created_at" : "2018-01-05 14:22:38",
+		"updated_at" : "2018-01-05 14:22:38"
+	},
+	{
+		"id" : 7,
+		"area_province_id" : 3,
+		"name" : "邢台市",
+		"created_at" : "2018-01-05 14:22:39",
+		"updated_at" : "2018-01-05 14:22:39"
+	},
+	{
+		"id" : 8,
+		"area_province_id" : 3,
+		"name" : "保定市",
+		"created_at" : "2018-01-05 14:22:40",
+		"updated_at" : "2018-01-05 14:22:40"
+	},
+	{
+		"id" : 9,
+		"area_province_id" : 3,
+		"name" : "张家口市",
+		"created_at" : "2018-01-05 14:22:41",
+		"updated_at" : "2018-01-05 14:22:41"
+	},
+	{
+		"id" : 10,
+		"area_province_id" : 3,
+		"name" : "承德市",
+		"created_at" : "2018-01-05 14:22:42",
+		"updated_at" : "2018-01-05 14:22:42"
+	},
+	{
+		"id" : 11,
+		"area_province_id" : 3,
+		"name" : "沧州市",
+		"created_at" : "2018-01-05 14:22:43",
+		"updated_at" : "2018-01-05 14:22:43"
+	},
+	{
+		"id" : 12,
+		"area_province_id" : 3,
+		"name" : "廊坊市",
+		"created_at" : "2018-01-05 14:22:43",
+		"updated_at" : "2018-01-05 14:22:43"
+	},
+	{
+		"id" : 13,
+		"area_province_id" : 3,
+		"name" : "衡水市",
+		"created_at" : "2018-01-05 14:22:44",
+		"updated_at" : "2018-01-05 14:22:44"
+	},
+	{
+		"id" : 14,
+		"area_province_id" : 3,
+		"name" : "定州市",
+		"created_at" : "2018-01-05 14:22:45",
+		"updated_at" : "2018-01-05 14:22:45"
+	},
+	{
+		"id" : 15,
+		"area_province_id" : 3,
+		"name" : "辛集市",
+		"created_at" : "2018-01-05 14:22:45",
+		"updated_at" : "2018-01-05 14:22:45"
+	},
+	{
+		"id" : 16,
+		"area_province_id" : 4,
+		"name" : "太原市",
+		"created_at" : "2018-01-05 14:22:45",
+		"updated_at" : "2018-01-05 14:22:45"
+	},
+	{
+		"id" : 17,
+		"area_province_id" : 4,
+		"name" : "大同市",
+		"created_at" : "2018-01-05 14:22:46",
+		"updated_at" : "2018-01-05 14:22:46"
+	},
+	{
+		"id" : 18,
+		"area_province_id" : 4,
+		"name" : "阳泉市",
+		"created_at" : "2018-01-05 14:22:46",
+		"updated_at" : "2018-01-05 14:22:46"
+	},
+	{
+		"id" : 19,
+		"area_province_id" : 4,
+		"name" : "长治市",
+		"created_at" : "2018-01-05 14:22:47",
+		"updated_at" : "2018-01-05 14:22:47"
+	},
+	{
+		"id" : 20,
+		"area_province_id" : 4,
+		"name" : "晋城市",
+		"created_at" : "2018-01-05 14:22:47",
+		"updated_at" : "2018-01-05 14:22:47"
+	},
+	{
+		"id" : 21,
+		"area_province_id" : 4,
+		"name" : "朔州市",
+		"created_at" : "2018-01-05 14:22:48",
+		"updated_at" : "2018-01-05 14:22:48"
+	},
+	{
+		"id" : 22,
+		"area_province_id" : 4,
+		"name" : "晋中市",
+		"created_at" : "2018-01-05 14:22:48",
+		"updated_at" : "2018-01-05 14:22:48"
+	},
+	{
+		"id" : 23,
+		"area_province_id" : 4,
+		"name" : "运城市",
+		"created_at" : "2018-01-05 14:22:49",
+		"updated_at" : "2018-01-05 14:22:49"
+	},
+	{
+		"id" : 24,
+		"area_province_id" : 4,
+		"name" : "忻州市",
+		"created_at" : "2018-01-05 14:22:50",
+		"updated_at" : "2018-01-05 14:22:50"
+	},
+	{
+		"id" : 25,
+		"area_province_id" : 4,
+		"name" : "临汾市",
+		"created_at" : "2018-01-05 14:22:50",
+		"updated_at" : "2018-01-05 14:22:50"
+	},
+	{
+		"id" : 26,
+		"area_province_id" : 4,
+		"name" : "吕梁市",
+		"created_at" : "2018-01-05 14:22:52",
+		"updated_at" : "2018-01-05 14:22:52"
+	},
+	{
+		"id" : 27,
+		"area_province_id" : 5,
+		"name" : "呼和浩特市",
+		"created_at" : "2018-01-05 14:22:53",
+		"updated_at" : "2018-01-05 14:22:53"
+	},
+	{
+		"id" : 28,
+		"area_province_id" : 5,
+		"name" : "包头市",
+		"created_at" : "2018-01-05 14:22:53",
+		"updated_at" : "2018-01-05 14:22:53"
+	},
+	{
+		"id" : 29,
+		"area_province_id" : 5,
+		"name" : "乌海市",
+		"created_at" : "2018-01-05 14:22:54",
+		"updated_at" : "2018-01-05 14:22:54"
+	},
+	{
+		"id" : 30,
+		"area_province_id" : 5,
+		"name" : "赤峰市",
+		"created_at" : "2018-01-05 14:22:54",
+		"updated_at" : "2018-01-05 14:22:54"
+	},
+	{
+		"id" : 31,
+		"area_province_id" : 5,
+		"name" : "通辽市",
+		"created_at" : "2018-01-05 14:22:55",
+		"updated_at" : "2018-01-05 14:22:55"
+	},
+	{
+		"id" : 32,
+		"area_province_id" : 5,
+		"name" : "鄂尔多斯市",
+		"created_at" : "2018-01-05 14:22:55",
+		"updated_at" : "2018-01-05 14:22:55"
+	},
+	{
+		"id" : 33,
+		"area_province_id" : 5,
+		"name" : "呼伦贝尔市",
+		"created_at" : "2018-01-05 14:22:56",
+		"updated_at" : "2018-01-05 14:22:56"
+	},
+	{
+		"id" : 34,
+		"area_province_id" : 5,
+		"name" : "巴彦淖尔市",
+		"created_at" : "2018-01-05 14:22:56",
+		"updated_at" : "2018-01-05 14:22:56"
+	},
+	{
+		"id" : 35,
+		"area_province_id" : 5,
+		"name" : "乌兰察布市",
+		"created_at" : "2018-01-05 14:22:57",
+		"updated_at" : "2018-01-05 14:22:57"
+	},
+	{
+		"id" : 36,
+		"area_province_id" : 5,
+		"name" : "兴安盟",
+		"created_at" : "2018-01-05 14:22:57",
+		"updated_at" : "2018-01-05 14:22:57"
+	},
+	{
+		"id" : 37,
+		"area_province_id" : 5,
+		"name" : "锡林郭勒盟",
+		"created_at" : "2018-01-05 14:22:58",
+		"updated_at" : "2018-01-05 14:22:58"
+	},
+	{
+		"id" : 38,
+		"area_province_id" : 5,
+		"name" : "阿拉善盟",
+		"created_at" : "2018-01-05 14:22:59",
+		"updated_at" : "2018-01-05 14:22:59"
+	},
+	{
+		"id" : 39,
+		"area_province_id" : 6,
+		"name" : "沈阳市",
+		"created_at" : "2018-01-05 14:22:59",
+		"updated_at" : "2018-01-05 14:22:59"
+	},
+	{
+		"id" : 40,
+		"area_province_id" : 6,
+		"name" : "大连市",
+		"created_at" : "2018-01-05 14:23:00",
+		"updated_at" : "2018-01-05 14:23:00"
+	},
+	{
+		"id" : 41,
+		"area_province_id" : 6,
+		"name" : "鞍山市",
+		"created_at" : "2018-01-05 14:23:00",
+		"updated_at" : "2018-01-05 14:23:00"
+	},
+	{
+		"id" : 42,
+		"area_province_id" : 6,
+		"name" : "抚顺市",
+		"created_at" : "2018-01-05 14:23:01",
+		"updated_at" : "2018-01-05 14:23:01"
+	},
+	{
+		"id" : 43,
+		"area_province_id" : 6,
+		"name" : "本溪市",
+		"created_at" : "2018-01-05 14:23:01",
+		"updated_at" : "2018-01-05 14:23:01"
+	},
+	{
+		"id" : 44,
+		"area_province_id" : 6,
+		"name" : "丹东市",
+		"created_at" : "2018-01-05 14:23:01",
+		"updated_at" : "2018-01-05 14:23:01"
+	},
+	{
+		"id" : 45,
+		"area_province_id" : 6,
+		"name" : "锦州市",
+		"created_at" : "2018-01-05 14:23:02",
+		"updated_at" : "2018-01-05 14:23:02"
+	},
+	{
+		"id" : 46,
+		"area_province_id" : 6,
+		"name" : "营口市",
+		"created_at" : "2018-01-05 14:23:02",
+		"updated_at" : "2018-01-05 14:23:02"
+	},
+	{
+		"id" : 47,
+		"area_province_id" : 6,
+		"name" : "阜新市",
+		"created_at" : "2018-01-05 14:23:03",
+		"updated_at" : "2018-01-05 14:23:03"
+	},
+	{
+		"id" : 48,
+		"area_province_id" : 6,
+		"name" : "辽阳市",
+		"created_at" : "2018-01-05 14:23:03",
+		"updated_at" : "2018-01-05 14:23:03"
+	},
+	{
+		"id" : 49,
+		"area_province_id" : 6,
+		"name" : "盘锦市",
+		"created_at" : "2018-01-05 14:23:03",
+		"updated_at" : "2018-01-05 14:23:03"
+	},
+	{
+		"id" : 50,
+		"area_province_id" : 6,
+		"name" : "铁岭市",
+		"created_at" : "2018-01-05 14:23:04",
+		"updated_at" : "2018-01-05 14:23:04"
+	},
+	{
+		"id" : 51,
+		"area_province_id" : 6,
+		"name" : "朝阳市",
+		"created_at" : "2018-01-05 14:23:04",
+		"updated_at" : "2018-01-05 14:23:04"
+	},
+	{
+		"id" : 52,
+		"area_province_id" : 6,
+		"name" : "葫芦岛市",
+		"created_at" : "2018-01-05 14:23:05",
+		"updated_at" : "2018-01-05 14:23:05"
+	},
+	{
+		"id" : 53,
+		"area_province_id" : 7,
+		"name" : "长春市",
+		"created_at" : "2018-01-05 14:23:05",
+		"updated_at" : "2018-01-05 14:23:05"
+	},
+	{
+		"id" : 54,
+		"area_province_id" : 7,
+		"name" : "吉林市",
+		"created_at" : "2018-01-05 14:23:06",
+		"updated_at" : "2018-01-05 14:23:06"
+	},
+	{
+		"id" : 55,
+		"area_province_id" : 7,
+		"name" : "四平市",
+		"created_at" : "2018-01-05 14:23:06",
+		"updated_at" : "2018-01-05 14:23:06"
+	},
+	{
+		"id" : 56,
+		"area_province_id" : 7,
+		"name" : "辽源市",
+		"created_at" : "2018-01-05 14:23:06",
+		"updated_at" : "2018-01-05 14:23:06"
+	},
+	{
+		"id" : 57,
+		"area_province_id" : 7,
+		"name" : "通化市",
+		"created_at" : "2018-01-05 14:23:07",
+		"updated_at" : "2018-01-05 14:23:07"
+	},
+	{
+		"id" : 58,
+		"area_province_id" : 7,
+		"name" : "白山市",
+		"created_at" : "2018-01-05 14:23:07",
+		"updated_at" : "2018-01-05 14:23:07"
+	},
+	{
+		"id" : 59,
+		"area_province_id" : 7,
+		"name" : "松原市",
+		"created_at" : "2018-01-05 14:23:07",
+		"updated_at" : "2018-01-05 14:23:07"
+	},
+	{
+		"id" : 60,
+		"area_province_id" : 7,
+		"name" : "白城市",
+		"created_at" : "2018-01-05 14:23:08",
+		"updated_at" : "2018-01-05 14:23:08"
+	},
+	{
+		"id" : 61,
+		"area_province_id" : 7,
+		"name" : "延边朝鲜族自治州",
+		"created_at" : "2018-01-05 14:23:08",
+		"updated_at" : "2018-01-05 14:23:08"
+	},
+	{
+		"id" : 62,
+		"area_province_id" : 8,
+		"name" : "哈尔滨市",
+		"created_at" : "2018-01-05 14:23:09",
+		"updated_at" : "2018-01-05 14:23:09"
+	},
+	{
+		"id" : 63,
+		"area_province_id" : 8,
+		"name" : "齐齐哈尔市",
+		"created_at" : "2018-01-05 14:23:10",
+		"updated_at" : "2018-01-05 14:23:10"
+	},
+	{
+		"id" : 64,
+		"area_province_id" : 8,
+		"name" : "鸡西市",
+		"created_at" : "2018-01-05 14:23:11",
+		"updated_at" : "2018-01-05 14:23:11"
+	},
+	{
+		"id" : 65,
+		"area_province_id" : 8,
+		"name" : "鹤岗市",
+		"created_at" : "2018-01-05 14:23:11",
+		"updated_at" : "2018-01-05 14:23:11"
+	},
+	{
+		"id" : 66,
+		"area_province_id" : 8,
+		"name" : "双鸭山市",
+		"created_at" : "2018-01-05 14:23:12",
+		"updated_at" : "2018-01-05 14:23:12"
+	},
+	{
+		"id" : 67,
+		"area_province_id" : 8,
+		"name" : "大庆市",
+		"created_at" : "2018-01-05 14:23:12",
+		"updated_at" : "2018-01-05 14:23:12"
+	},
+	{
+		"id" : 68,
+		"area_province_id" : 8,
+		"name" : "伊春市",
+		"created_at" : "2018-01-05 14:23:13",
+		"updated_at" : "2018-01-05 14:23:13"
+	},
+	{
+		"id" : 69,
+		"area_province_id" : 8,
+		"name" : "佳木斯市",
+		"created_at" : "2018-01-05 14:23:14",
+		"updated_at" : "2018-01-05 14:23:14"
+	},
+	{
+		"id" : 70,
+		"area_province_id" : 8,
+		"name" : "七台河市",
+		"created_at" : "2018-01-05 14:23:15",
+		"updated_at" : "2018-01-05 14:23:15"
+	},
+	{
+		"id" : 71,
+		"area_province_id" : 8,
+		"name" : "牡丹江市",
+		"created_at" : "2018-01-05 14:23:15",
+		"updated_at" : "2018-01-05 14:23:15"
+	},
+	{
+		"id" : 72,
+		"area_province_id" : 8,
+		"name" : "黑河市",
+		"created_at" : "2018-01-05 14:23:15",
+		"updated_at" : "2018-01-05 14:23:15"
+	},
+	{
+		"id" : 73,
+		"area_province_id" : 8,
+		"name" : "绥化市",
+		"created_at" : "2018-01-05 14:23:16",
+		"updated_at" : "2018-01-05 14:23:16"
+	},
+	{
+		"id" : 74,
+		"area_province_id" : 8,
+		"name" : "大兴安岭地区",
+		"created_at" : "2018-01-05 14:23:16",
+		"updated_at" : "2018-01-05 14:23:16"
+	},
+	{
+		"id" : 75,
+		"area_province_id" : 9,
+		"name" : "市辖区",
+		"created_at" : "2018-01-05 14:23:17",
+		"updated_at" : "2018-01-05 14:23:17"
+	},
+	{
+		"id" : 76,
+		"area_province_id" : 10,
+		"name" : "南京市",
+		"created_at" : "2018-01-05 14:23:18",
+		"updated_at" : "2018-01-05 14:23:18"
+	},
+	{
+		"id" : 77,
+		"area_province_id" : 10,
+		"name" : "无锡市",
+		"created_at" : "2018-01-05 14:23:18",
+		"updated_at" : "2018-01-05 14:23:18"
+	},
+	{
+		"id" : 78,
+		"area_province_id" : 10,
+		"name" : "徐州市",
+		"created_at" : "2018-01-05 14:23:19",
+		"updated_at" : "2018-01-05 14:23:19"
+	},
+	{
+		"id" : 79,
+		"area_province_id" : 10,
+		"name" : "常州市",
+		"created_at" : "2018-01-05 14:23:19",
+		"updated_at" : "2018-01-05 14:23:19"
+	},
+	{
+		"id" : 80,
+		"area_province_id" : 10,
+		"name" : "苏州市",
+		"created_at" : "2018-01-05 14:23:19",
+		"updated_at" : "2018-01-05 14:23:19"
+	},
+	{
+		"id" : 81,
+		"area_province_id" : 10,
+		"name" : "南通市",
+		"created_at" : "2018-01-05 14:23:20",
+		"updated_at" : "2018-01-05 14:23:20"
+	},
+	{
+		"id" : 82,
+		"area_province_id" : 10,
+		"name" : "连云港市",
+		"created_at" : "2018-01-05 14:23:21",
+		"updated_at" : "2018-01-05 14:23:21"
+	},
+	{
+		"id" : 83,
+		"area_province_id" : 10,
+		"name" : "淮安市",
+		"created_at" : "2018-01-05 14:23:21",
+		"updated_at" : "2018-01-05 14:23:21"
+	},
+	{
+		"id" : 84,
+		"area_province_id" : 10,
+		"name" : "盐城市",
+		"created_at" : "2018-01-05 14:23:21",
+		"updated_at" : "2018-01-05 14:23:21"
+	},
+	{
+		"id" : 85,
+		"area_province_id" : 10,
+		"name" : "扬州市",
+		"created_at" : "2018-01-05 14:23:22",
+		"updated_at" : "2018-01-05 14:23:22"
+	},
+	{
+		"id" : 86,
+		"area_province_id" : 10,
+		"name" : "镇江市",
+		"created_at" : "2018-01-05 14:23:22",
+		"updated_at" : "2018-01-05 14:23:22"
+	},
+	{
+		"id" : 87,
+		"area_province_id" : 10,
+		"name" : "泰州市",
+		"created_at" : "2018-01-05 14:23:22",
+		"updated_at" : "2018-01-05 14:23:22"
+	},
+	{
+		"id" : 88,
+		"area_province_id" : 10,
+		"name" : "宿迁市",
+		"created_at" : "2018-01-05 14:23:23",
+		"updated_at" : "2018-01-05 14:23:23"
+	},
+	{
+		"id" : 89,
+		"area_province_id" : 11,
+		"name" : "杭州市",
+		"created_at" : "2018-01-05 14:23:23",
+		"updated_at" : "2018-01-05 14:23:23"
+	},
+	{
+		"id" : 90,
+		"area_province_id" : 11,
+		"name" : "宁波市",
+		"created_at" : "2018-01-05 14:23:24",
+		"updated_at" : "2018-01-05 14:23:24"
+	},
+	{
+		"id" : 91,
+		"area_province_id" : 11,
+		"name" : "温州市",
+		"created_at" : "2018-01-05 14:23:24",
+		"updated_at" : "2018-01-05 14:23:24"
+	},
+	{
+		"id" : 92,
+		"area_province_id" : 11,
+		"name" : "嘉兴市",
+		"created_at" : "2018-01-05 14:23:25",
+		"updated_at" : "2018-01-05 14:23:25"
+	},
+	{
+		"id" : 93,
+		"area_province_id" : 11,
+		"name" : "湖州市",
+		"created_at" : "2018-01-05 14:23:25",
+		"updated_at" : "2018-01-05 14:23:25"
+	},
+	{
+		"id" : 94,
+		"area_province_id" : 11,
+		"name" : "绍兴市",
+		"created_at" : "2018-01-05 14:23:25",
+		"updated_at" : "2018-01-05 14:23:25"
+	},
+	{
+		"id" : 95,
+		"area_province_id" : 11,
+		"name" : "金华市",
+		"created_at" : "2018-01-05 14:23:26",
+		"updated_at" : "2018-01-05 14:23:26"
+	},
+	{
+		"id" : 96,
+		"area_province_id" : 11,
+		"name" : "衢州市",
+		"created_at" : "2018-01-05 14:23:26",
+		"updated_at" : "2018-01-05 14:23:26"
+	},
+	{
+		"id" : 97,
+		"area_province_id" : 11,
+		"name" : "舟山市",
+		"created_at" : "2018-01-05 14:23:26",
+		"updated_at" : "2018-01-05 14:23:26"
+	},
+	{
+		"id" : 98,
+		"area_province_id" : 11,
+		"name" : "台州市",
+		"created_at" : "2018-01-05 14:23:27",
+		"updated_at" : "2018-01-05 14:23:27"
+	},
+	{
+		"id" : 99,
+		"area_province_id" : 11,
+		"name" : "丽水市",
+		"created_at" : "2018-01-05 14:23:27",
+		"updated_at" : "2018-01-05 14:23:27"
+	},
+	{
+		"id" : 100,
+		"area_province_id" : 12,
+		"name" : "合肥市",
+		"created_at" : "2018-01-05 14:23:27",
+		"updated_at" : "2018-01-05 14:23:27"
+	},
+	{
+		"id" : 101,
+		"area_province_id" : 12,
+		"name" : "芜湖市",
+		"created_at" : "2018-01-05 14:23:28",
+		"updated_at" : "2018-01-05 14:23:28"
+	},
+	{
+		"id" : 102,
+		"area_province_id" : 12,
+		"name" : "蚌埠市",
+		"created_at" : "2018-01-05 14:23:28",
+		"updated_at" : "2018-01-05 14:23:28"
+	},
+	{
+		"id" : 103,
+		"area_province_id" : 12,
+		"name" : "淮南市",
+		"created_at" : "2018-01-05 14:23:29",
+		"updated_at" : "2018-01-05 14:23:29"
+	},
+	{
+		"id" : 104,
+		"area_province_id" : 12,
+		"name" : "马鞍山市",
+		"created_at" : "2018-01-05 14:23:29",
+		"updated_at" : "2018-01-05 14:23:29"
+	},
+	{
+		"id" : 105,
+		"area_province_id" : 12,
+		"name" : "淮北市",
+		"created_at" : "2018-01-05 14:23:29",
+		"updated_at" : "2018-01-05 14:23:29"
+	},
+	{
+		"id" : 106,
+		"area_province_id" : 12,
+		"name" : "铜陵市",
+		"created_at" : "2018-01-05 14:23:30",
+		"updated_at" : "2018-01-05 14:23:30"
+	},
+	{
+		"id" : 107,
+		"area_province_id" : 12,
+		"name" : "安庆市",
+		"created_at" : "2018-01-05 14:23:30",
+		"updated_at" : "2018-01-05 14:23:30"
+	},
+	{
+		"id" : 108,
+		"area_province_id" : 12,
+		"name" : "黄山市",
+		"created_at" : "2018-01-05 14:23:30",
+		"updated_at" : "2018-01-05 14:23:30"
+	},
+	{
+		"id" : 109,
+		"area_province_id" : 12,
+		"name" : "滁州市",
+		"created_at" : "2018-01-05 14:23:31",
+		"updated_at" : "2018-01-05 14:23:31"
+	},
+	{
+		"id" : 110,
+		"area_province_id" : 12,
+		"name" : "阜阳市",
+		"created_at" : "2018-01-05 14:23:31",
+		"updated_at" : "2018-01-05 14:23:31"
+	},
+	{
+		"id" : 111,
+		"area_province_id" : 12,
+		"name" : "宿州市",
+		"created_at" : "2018-01-05 14:23:32",
+		"updated_at" : "2018-01-05 14:23:32"
+	},
+	{
+		"id" : 112,
+		"area_province_id" : 12,
+		"name" : "六安市",
+		"created_at" : "2018-01-05 14:23:32",
+		"updated_at" : "2018-01-05 14:23:32"
+	},
+	{
+		"id" : 113,
+		"area_province_id" : 12,
+		"name" : "亳州市",
+		"created_at" : "2018-01-05 14:23:32",
+		"updated_at" : "2018-01-05 14:23:32"
+	},
+	{
+		"id" : 114,
+		"area_province_id" : 12,
+		"name" : "池州市",
+		"created_at" : "2018-01-05 14:23:32",
+		"updated_at" : "2018-01-05 14:23:32"
+	},
+	{
+		"id" : 115,
+		"area_province_id" : 12,
+		"name" : "宣城市",
+		"created_at" : "2018-01-05 14:23:33",
+		"updated_at" : "2018-01-05 14:23:33"
+	},
+	{
+		"id" : 116,
+		"area_province_id" : 13,
+		"name" : "福州市",
+		"created_at" : "2018-01-05 14:23:33",
+		"updated_at" : "2018-01-05 14:23:33"
+	},
+	{
+		"id" : 117,
+		"area_province_id" : 13,
+		"name" : "厦门市",
+		"created_at" : "2018-01-05 14:23:34",
+		"updated_at" : "2018-01-05 14:23:34"
+	},
+	{
+		"id" : 118,
+		"area_province_id" : 13,
+		"name" : "莆田市",
+		"created_at" : "2018-01-05 14:23:35",
+		"updated_at" : "2018-01-05 14:23:35"
+	},
+	{
+		"id" : 119,
+		"area_province_id" : 13,
+		"name" : "三明市",
+		"created_at" : "2018-01-05 14:23:35",
+		"updated_at" : "2018-01-05 14:23:35"
+	},
+	{
+		"id" : 120,
+		"area_province_id" : 13,
+		"name" : "泉州市",
+		"created_at" : "2018-01-05 14:23:36",
+		"updated_at" : "2018-01-05 14:23:36"
+	},
+	{
+		"id" : 121,
+		"area_province_id" : 13,
+		"name" : "漳州市",
+		"created_at" : "2018-01-05 14:23:36",
+		"updated_at" : "2018-01-05 14:23:36"
+	},
+	{
+		"id" : 122,
+		"area_province_id" : 13,
+		"name" : "南平市",
+		"created_at" : "2018-01-05 14:23:37",
+		"updated_at" : "2018-01-05 14:23:37"
+	},
+	{
+		"id" : 123,
+		"area_province_id" : 13,
+		"name" : "龙岩市",
+		"created_at" : "2018-01-05 14:23:38",
+		"updated_at" : "2018-01-05 14:23:38"
+	},
+	{
+		"id" : 124,
+		"area_province_id" : 13,
+		"name" : "宁德市",
+		"created_at" : "2018-01-05 14:23:38",
+		"updated_at" : "2018-01-05 14:23:38"
+	},
+	{
+		"id" : 125,
+		"area_province_id" : 14,
+		"name" : "南昌市",
+		"created_at" : "2018-01-05 14:23:39",
+		"updated_at" : "2018-01-05 14:23:39"
+	},
+	{
+		"id" : 126,
+		"area_province_id" : 14,
+		"name" : "景德镇市",
+		"created_at" : "2018-01-05 14:23:39",
+		"updated_at" : "2018-01-05 14:23:39"
+	},
+	{
+		"id" : 127,
+		"area_province_id" : 14,
+		"name" : "萍乡市",
+		"created_at" : "2018-01-05 14:23:40",
+		"updated_at" : "2018-01-05 14:23:40"
+	},
+	{
+		"id" : 128,
+		"area_province_id" : 14,
+		"name" : "九江市",
+		"created_at" : "2018-01-05 14:23:40",
+		"updated_at" : "2018-01-05 14:23:40"
+	},
+	{
+		"id" : 129,
+		"area_province_id" : 14,
+		"name" : "新余市",
+		"created_at" : "2018-01-05 14:23:41",
+		"updated_at" : "2018-01-05 14:23:41"
+	},
+	{
+		"id" : 130,
+		"area_province_id" : 14,
+		"name" : "鹰潭市",
+		"created_at" : "2018-01-05 14:23:41",
+		"updated_at" : "2018-01-05 14:23:41"
+	},
+	{
+		"id" : 131,
+		"area_province_id" : 14,
+		"name" : "赣州市",
+		"created_at" : "2018-01-05 14:23:41",
+		"updated_at" : "2018-01-05 14:23:41"
+	},
+	{
+		"id" : 132,
+		"area_province_id" : 14,
+		"name" : "吉安市",
+		"created_at" : "2018-01-05 14:23:43",
+		"updated_at" : "2018-01-05 14:23:43"
+	},
+	{
+		"id" : 133,
+		"area_province_id" : 14,
+		"name" : "宜春市",
+		"created_at" : "2018-01-05 14:23:43",
+		"updated_at" : "2018-01-05 14:23:43"
+	},
+	{
+		"id" : 134,
+		"area_province_id" : 14,
+		"name" : "抚州市",
+		"created_at" : "2018-01-05 14:23:44",
+		"updated_at" : "2018-01-05 14:23:44"
+	},
+	{
+		"id" : 135,
+		"area_province_id" : 14,
+		"name" : "上饶市",
+		"created_at" : "2018-01-05 14:23:45",
+		"updated_at" : "2018-01-05 14:23:45"
+	},
+	{
+		"id" : 136,
+		"area_province_id" : 15,
+		"name" : "济南市",
+		"created_at" : "2018-01-05 14:23:45",
+		"updated_at" : "2018-01-05 14:23:45"
+	},
+	{
+		"id" : 137,
+		"area_province_id" : 15,
+		"name" : "青岛市",
+		"created_at" : "2018-01-05 14:23:46",
+		"updated_at" : "2018-01-05 14:23:46"
+	},
+	{
+		"id" : 138,
+		"area_province_id" : 15,
+		"name" : "淄博市",
+		"created_at" : "2018-01-05 14:23:47",
+		"updated_at" : "2018-01-05 14:23:47"
+	},
+	{
+		"id" : 139,
+		"area_province_id" : 15,
+		"name" : "枣庄市",
+		"created_at" : "2018-01-05 14:23:47",
+		"updated_at" : "2018-01-05 14:23:47"
+	},
+	{
+		"id" : 140,
+		"area_province_id" : 15,
+		"name" : "东营市",
+		"created_at" : "2018-01-05 14:23:48",
+		"updated_at" : "2018-01-05 14:23:48"
+	},
+	{
+		"id" : 141,
+		"area_province_id" : 15,
+		"name" : "烟台市",
+		"created_at" : "2018-01-05 14:23:48",
+		"updated_at" : "2018-01-05 14:23:48"
+	},
+	{
+		"id" : 142,
+		"area_province_id" : 15,
+		"name" : "潍坊市",
+		"created_at" : "2018-01-05 14:23:49",
+		"updated_at" : "2018-01-05 14:23:49"
+	},
+	{
+		"id" : 143,
+		"area_province_id" : 15,
+		"name" : "济宁市",
+		"created_at" : "2018-01-05 14:23:49",
+		"updated_at" : "2018-01-05 14:23:49"
+	},
+	{
+		"id" : 144,
+		"area_province_id" : 15,
+		"name" : "泰安市",
+		"created_at" : "2018-01-05 14:23:50",
+		"updated_at" : "2018-01-05 14:23:50"
+	},
+	{
+		"id" : 145,
+		"area_province_id" : 15,
+		"name" : "威海市",
+		"created_at" : "2018-01-05 14:23:50",
+		"updated_at" : "2018-01-05 14:23:50"
+	},
+	{
+		"id" : 146,
+		"area_province_id" : 15,
+		"name" : "日照市",
+		"created_at" : "2018-01-05 14:23:51",
+		"updated_at" : "2018-01-05 14:23:51"
+	},
+	{
+		"id" : 147,
+		"area_province_id" : 15,
+		"name" : "莱芜市",
+		"created_at" : "2018-01-05 14:23:51",
+		"updated_at" : "2018-01-05 14:23:51"
+	},
+	{
+		"id" : 148,
+		"area_province_id" : 15,
+		"name" : "临沂市",
+		"created_at" : "2018-01-05 14:23:51",
+		"updated_at" : "2018-01-05 14:23:51"
+	},
+	{
+		"id" : 149,
+		"area_province_id" : 15,
+		"name" : "德州市",
+		"created_at" : "2018-01-05 14:23:52",
+		"updated_at" : "2018-01-05 14:23:52"
+	},
+	{
+		"id" : 150,
+		"area_province_id" : 15,
+		"name" : "聊城市",
+		"created_at" : "2018-01-05 14:23:52",
+		"updated_at" : "2018-01-05 14:23:52"
+	},
+	{
+		"id" : 151,
+		"area_province_id" : 15,
+		"name" : "滨州市",
+		"created_at" : "2018-01-05 14:23:53",
+		"updated_at" : "2018-01-05 14:23:53"
+	},
+	{
+		"id" : 152,
+		"area_province_id" : 15,
+		"name" : "菏泽市",
+		"created_at" : "2018-01-05 14:23:53",
+		"updated_at" : "2018-01-05 14:23:53"
+	},
+	{
+		"id" : 153,
+		"area_province_id" : 16,
+		"name" : "郑州市",
+		"created_at" : "2018-01-05 14:23:54",
+		"updated_at" : "2018-01-05 14:23:54"
+	},
+	{
+		"id" : 154,
+		"area_province_id" : 16,
+		"name" : "开封市",
+		"created_at" : "2018-01-05 14:23:54",
+		"updated_at" : "2018-01-05 14:23:54"
+	},
+	{
+		"id" : 155,
+		"area_province_id" : 16,
+		"name" : "洛阳市",
+		"created_at" : "2018-01-05 14:23:55",
+		"updated_at" : "2018-01-05 14:23:55"
+	},
+	{
+		"id" : 156,
+		"area_province_id" : 16,
+		"name" : "平顶山市",
+		"created_at" : "2018-01-05 14:23:56",
+		"updated_at" : "2018-01-05 14:23:56"
+	},
+	{
+		"id" : 157,
+		"area_province_id" : 16,
+		"name" : "安阳市",
+		"created_at" : "2018-01-05 14:23:56",
+		"updated_at" : "2018-01-05 14:23:56"
+	},
+	{
+		"id" : 158,
+		"area_province_id" : 16,
+		"name" : "鹤壁市",
+		"created_at" : "2018-01-05 14:23:57",
+		"updated_at" : "2018-01-05 14:23:57"
+	},
+	{
+		"id" : 159,
+		"area_province_id" : 16,
+		"name" : "新乡市",
+		"created_at" : "2018-01-05 14:23:57",
+		"updated_at" : "2018-01-05 14:23:57"
+	},
+	{
+		"id" : 160,
+		"area_province_id" : 16,
+		"name" : "焦作市",
+		"created_at" : "2018-01-05 14:23:58",
+		"updated_at" : "2018-01-05 14:23:58"
+	},
+	{
+		"id" : 161,
+		"area_province_id" : 16,
+		"name" : "濮阳市",
+		"created_at" : "2018-01-05 14:23:58",
+		"updated_at" : "2018-01-05 14:23:58"
+	},
+	{
+		"id" : 162,
+		"area_province_id" : 16,
+		"name" : "许昌市",
+		"created_at" : "2018-01-05 14:23:59",
+		"updated_at" : "2018-01-05 14:23:59"
+	},
+	{
+		"id" : 163,
+		"area_province_id" : 16,
+		"name" : "漯河市",
+		"created_at" : "2018-01-05 14:23:59",
+		"updated_at" : "2018-01-05 14:23:59"
+	},
+	{
+		"id" : 164,
+		"area_province_id" : 16,
+		"name" : "三门峡市",
+		"created_at" : "2018-01-05 14:23:59",
+		"updated_at" : "2018-01-05 14:23:59"
+	},
+	{
+		"id" : 165,
+		"area_province_id" : 16,
+		"name" : "南阳市",
+		"created_at" : "2018-01-05 14:24:00",
+		"updated_at" : "2018-01-05 14:24:00"
+	},
+	{
+		"id" : 166,
+		"area_province_id" : 16,
+		"name" : "商丘市",
+		"created_at" : "2018-01-05 14:24:00",
+		"updated_at" : "2018-01-05 14:24:00"
+	},
+	{
+		"id" : 167,
+		"area_province_id" : 16,
+		"name" : "信阳市",
+		"created_at" : "2018-01-05 14:24:01",
+		"updated_at" : "2018-01-05 14:24:01"
+	},
+	{
+		"id" : 168,
+		"area_province_id" : 16,
+		"name" : "周口市",
+		"created_at" : "2018-01-05 14:24:02",
+		"updated_at" : "2018-01-05 14:24:02"
+	},
+	{
+		"id" : 169,
+		"area_province_id" : 16,
+		"name" : "驻马店市",
+		"created_at" : "2018-01-05 14:24:02",
+		"updated_at" : "2018-01-05 14:24:02"
+	},
+	{
+		"id" : 170,
+		"area_province_id" : 16,
+		"name" : "济源市",
+		"created_at" : "2018-01-05 14:24:03",
+		"updated_at" : "2018-01-05 14:24:03"
+	},
+	{
+		"id" : 171,
+		"area_province_id" : 17,
+		"name" : "武汉市",
+		"created_at" : "2018-01-05 14:24:03",
+		"updated_at" : "2018-01-05 14:24:03"
+	},
+	{
+		"id" : 172,
+		"area_province_id" : 17,
+		"name" : "黄石市",
+		"created_at" : "2018-01-05 14:24:04",
+		"updated_at" : "2018-01-05 14:24:04"
+	},
+	{
+		"id" : 173,
+		"area_province_id" : 17,
+		"name" : "十堰市",
+		"created_at" : "2018-01-05 14:24:04",
+		"updated_at" : "2018-01-05 14:24:04"
+	},
+	{
+		"id" : 174,
+		"area_province_id" : 17,
+		"name" : "宜昌市",
+		"created_at" : "2018-01-05 14:24:05",
+		"updated_at" : "2018-01-05 14:24:05"
+	},
+	{
+		"id" : 175,
+		"area_province_id" : 17,
+		"name" : "襄阳市",
+		"created_at" : "2018-01-05 14:24:05",
+		"updated_at" : "2018-01-05 14:24:05"
+	},
+	{
+		"id" : 176,
+		"area_province_id" : 17,
+		"name" : "鄂州市",
+		"created_at" : "2018-01-05 14:24:06",
+		"updated_at" : "2018-01-05 14:24:06"
+	},
+	{
+		"id" : 177,
+		"area_province_id" : 17,
+		"name" : "荆门市",
+		"created_at" : "2018-01-05 14:24:06",
+		"updated_at" : "2018-01-05 14:24:06"
+	},
+	{
+		"id" : 178,
+		"area_province_id" : 17,
+		"name" : "孝感市",
+		"created_at" : "2018-01-05 14:24:06",
+		"updated_at" : "2018-01-05 14:24:06"
+	},
+	{
+		"id" : 179,
+		"area_province_id" : 17,
+		"name" : "荆州市",
+		"created_at" : "2018-01-05 14:24:07",
+		"updated_at" : "2018-01-05 14:24:07"
+	},
+	{
+		"id" : 180,
+		"area_province_id" : 17,
+		"name" : "黄冈市",
+		"created_at" : "2018-01-05 14:24:07",
+		"updated_at" : "2018-01-05 14:24:07"
+	},
+	{
+		"id" : 181,
+		"area_province_id" : 17,
+		"name" : "咸宁市",
+		"created_at" : "2018-01-05 14:24:08",
+		"updated_at" : "2018-01-05 14:24:08"
+	},
+	{
+		"id" : 182,
+		"area_province_id" : 17,
+		"name" : "随州市",
+		"created_at" : "2018-01-05 14:24:08",
+		"updated_at" : "2018-01-05 14:24:08"
+	},
+	{
+		"id" : 183,
+		"area_province_id" : 17,
+		"name" : "恩施土家族苗族自治州",
+		"created_at" : "2018-01-05 14:24:08",
+		"updated_at" : "2018-01-05 14:24:08"
+	},
+	{
+		"id" : 184,
+		"area_province_id" : 17,
+		"name" : "仙桃市",
+		"created_at" : "2018-01-05 14:24:09",
+		"updated_at" : "2018-01-05 14:24:09"
+	},
+	{
+		"id" : 185,
+		"area_province_id" : 17,
+		"name" : "潜江市",
+		"created_at" : "2018-01-05 14:24:09",
+		"updated_at" : "2018-01-05 14:24:09"
+	},
+	{
+		"id" : 186,
+		"area_province_id" : 17,
+		"name" : "天门市",
+		"created_at" : "2018-01-05 14:24:09",
+		"updated_at" : "2018-01-05 14:24:09"
+	},
+	{
+		"id" : 187,
+		"area_province_id" : 17,
+		"name" : "神农架林区",
+		"created_at" : "2018-01-05 14:24:09",
+		"updated_at" : "2018-01-05 14:24:09"
+	},
+	{
+		"id" : 188,
+		"area_province_id" : 18,
+		"name" : "长沙市",
+		"created_at" : "2018-01-05 14:24:09",
+		"updated_at" : "2018-01-05 14:24:09"
+	},
+	{
+		"id" : 189,
+		"area_province_id" : 18,
+		"name" : "株洲市",
+		"created_at" : "2018-01-05 14:24:10",
+		"updated_at" : "2018-01-05 14:24:10"
+	},
+	{
+		"id" : 190,
+		"area_province_id" : 18,
+		"name" : "湘潭市",
+		"created_at" : "2018-01-05 14:24:10",
+		"updated_at" : "2018-01-05 14:24:10"
+	},
+	{
+		"id" : 191,
+		"area_province_id" : 18,
+		"name" : "衡阳市",
+		"created_at" : "2018-01-05 14:24:10",
+		"updated_at" : "2018-01-05 14:24:10"
+	},
+	{
+		"id" : 192,
+		"area_province_id" : 18,
+		"name" : "邵阳市",
+		"created_at" : "2018-01-05 14:24:11",
+		"updated_at" : "2018-01-05 14:24:11"
+	},
+	{
+		"id" : 193,
+		"area_province_id" : 18,
+		"name" : "岳阳市",
+		"created_at" : "2018-01-05 14:24:12",
+		"updated_at" : "2018-01-05 14:24:12"
+	},
+	{
+		"id" : 194,
+		"area_province_id" : 18,
+		"name" : "常德市",
+		"created_at" : "2018-01-05 14:24:12",
+		"updated_at" : "2018-01-05 14:24:12"
+	},
+	{
+		"id" : 195,
+		"area_province_id" : 18,
+		"name" : "张家界市",
+		"created_at" : "2018-01-05 14:24:13",
+		"updated_at" : "2018-01-05 14:24:13"
+	},
+	{
+		"id" : 196,
+		"area_province_id" : 18,
+		"name" : "益阳市",
+		"created_at" : "2018-01-05 14:24:13",
+		"updated_at" : "2018-01-05 14:24:13"
+	},
+	{
+		"id" : 197,
+		"area_province_id" : 18,
+		"name" : "郴州市",
+		"created_at" : "2018-01-05 14:24:13",
+		"updated_at" : "2018-01-05 14:24:13"
+	},
+	{
+		"id" : 198,
+		"area_province_id" : 18,
+		"name" : "永州市",
+		"created_at" : "2018-01-05 14:24:14",
+		"updated_at" : "2018-01-05 14:24:14"
+	},
+	{
+		"id" : 199,
+		"area_province_id" : 18,
+		"name" : "怀化市",
+		"created_at" : "2018-01-05 14:24:14",
+		"updated_at" : "2018-01-05 14:24:14"
+	},
+	{
+		"id" : 200,
+		"area_province_id" : 18,
+		"name" : "娄底市",
+		"created_at" : "2018-01-05 14:24:15",
+		"updated_at" : "2018-01-05 14:24:15"
+	},
+	{
+		"id" : 201,
+		"area_province_id" : 18,
+		"name" : "湘西土家族苗族自治州",
+		"created_at" : "2018-01-05 14:24:15",
+		"updated_at" : "2018-01-05 14:24:15"
+	},
+	{
+		"id" : 202,
+		"area_province_id" : 19,
+		"name" : "广州市",
+		"created_at" : "2018-01-05 14:24:16",
+		"updated_at" : "2018-01-05 14:24:16"
+	},
+	{
+		"id" : 203,
+		"area_province_id" : 19,
+		"name" : "韶关市",
+		"created_at" : "2018-01-05 14:24:16",
+		"updated_at" : "2018-01-05 14:24:16"
+	},
+	{
+		"id" : 204,
+		"area_province_id" : 19,
+		"name" : "深圳市",
+		"created_at" : "2018-01-05 14:24:17",
+		"updated_at" : "2018-01-05 14:24:17"
+	},
+	{
+		"id" : 205,
+		"area_province_id" : 19,
+		"name" : "珠海市",
+		"created_at" : "2018-01-05 14:24:17",
+		"updated_at" : "2018-01-05 14:24:17"
+	},
+	{
+		"id" : 206,
+		"area_province_id" : 19,
+		"name" : "汕头市",
+		"created_at" : "2018-01-05 14:24:17",
+		"updated_at" : "2018-01-05 14:24:17"
+	},
+	{
+		"id" : 207,
+		"area_province_id" : 19,
+		"name" : "佛山市",
+		"created_at" : "2018-01-05 14:24:17",
+		"updated_at" : "2018-01-05 14:24:17"
+	},
+	{
+		"id" : 208,
+		"area_province_id" : 19,
+		"name" : "江门市",
+		"created_at" : "2018-01-05 14:24:18",
+		"updated_at" : "2018-01-05 14:24:18"
+	},
+	{
+		"id" : 209,
+		"area_province_id" : 19,
+		"name" : "湛江市",
+		"created_at" : "2018-01-05 14:24:18",
+		"updated_at" : "2018-01-05 14:24:18"
+	},
+	{
+		"id" : 210,
+		"area_province_id" : 19,
+		"name" : "茂名市",
+		"created_at" : "2018-01-05 14:24:19",
+		"updated_at" : "2018-01-05 14:24:19"
+	},
+	{
+		"id" : 211,
+		"area_province_id" : 19,
+		"name" : "肇庆市",
+		"created_at" : "2018-01-05 14:24:19",
+		"updated_at" : "2018-01-05 14:24:19"
+	},
+	{
+		"id" : 212,
+		"area_province_id" : 19,
+		"name" : "惠州市",
+		"created_at" : "2018-01-05 14:24:19",
+		"updated_at" : "2018-01-05 14:24:19"
+	},
+	{
+		"id" : 213,
+		"area_province_id" : 19,
+		"name" : "梅州市",
+		"created_at" : "2018-01-05 14:24:20",
+		"updated_at" : "2018-01-05 14:24:20"
+	},
+	{
+		"id" : 214,
+		"area_province_id" : 19,
+		"name" : "汕尾市",
+		"created_at" : "2018-01-05 14:24:20",
+		"updated_at" : "2018-01-05 14:24:20"
+	},
+	{
+		"id" : 215,
+		"area_province_id" : 19,
+		"name" : "河源市",
+		"created_at" : "2018-01-05 14:24:20",
+		"updated_at" : "2018-01-05 14:24:20"
+	},
+	{
+		"id" : 216,
+		"area_province_id" : 19,
+		"name" : "阳江市",
+		"created_at" : "2018-01-05 14:24:21",
+		"updated_at" : "2018-01-05 14:24:21"
+	},
+	{
+		"id" : 217,
+		"area_province_id" : 19,
+		"name" : "清远市",
+		"created_at" : "2018-01-05 14:24:21",
+		"updated_at" : "2018-01-05 14:24:21"
+	},
+	{
+		"id" : 218,
+		"area_province_id" : 19,
+		"name" : "东莞市",
+		"created_at" : "2018-01-05 14:24:21",
+		"updated_at" : "2018-01-05 14:24:21"
+	},
+	{
+		"id" : 219,
+		"area_province_id" : 19,
+		"name" : "中山市",
+		"created_at" : "2018-01-05 14:24:21",
+		"updated_at" : "2018-01-05 14:24:21"
+	},
+	{
+		"id" : 220,
+		"area_province_id" : 19,
+		"name" : "潮州市",
+		"created_at" : "2018-01-05 14:24:22",
+		"updated_at" : "2018-01-05 14:24:22"
+	},
+	{
+		"id" : 221,
+		"area_province_id" : 19,
+		"name" : "揭阳市",
+		"created_at" : "2018-01-05 14:24:22",
+		"updated_at" : "2018-01-05 14:24:22"
+	},
+	{
+		"id" : 222,
+		"area_province_id" : 19,
+		"name" : "云浮市",
+		"created_at" : "2018-01-05 14:24:22",
+		"updated_at" : "2018-01-05 14:24:22"
+	},
+	{
+		"id" : 223,
+		"area_province_id" : 20,
+		"name" : "南宁市",
+		"created_at" : "2018-01-05 14:24:22",
+		"updated_at" : "2018-01-05 14:24:22"
+	},
+	{
+		"id" : 224,
+		"area_province_id" : 20,
+		"name" : "柳州市",
+		"created_at" : "2018-01-05 14:24:23",
+		"updated_at" : "2018-01-05 14:24:23"
+	},
+	{
+		"id" : 225,
+		"area_province_id" : 20,
+		"name" : "桂林市",
+		"created_at" : "2018-01-05 14:24:24",
+		"updated_at" : "2018-01-05 14:24:24"
+	},
+	{
+		"id" : 226,
+		"area_province_id" : 20,
+		"name" : "梧州市",
+		"created_at" : "2018-01-05 14:24:25",
+		"updated_at" : "2018-01-05 14:24:25"
+	},
+	{
+		"id" : 227,
+		"area_province_id" : 20,
+		"name" : "北海市",
+		"created_at" : "2018-01-05 14:24:25",
+		"updated_at" : "2018-01-05 14:24:25"
+	},
+	{
+		"id" : 228,
+		"area_province_id" : 20,
+		"name" : "防城港市",
+		"created_at" : "2018-01-05 14:24:25",
+		"updated_at" : "2018-01-05 14:24:25"
+	},
+	{
+		"id" : 229,
+		"area_province_id" : 20,
+		"name" : "钦州市",
+		"created_at" : "2018-01-05 14:24:26",
+		"updated_at" : "2018-01-05 14:24:26"
+	},
+	{
+		"id" : 230,
+		"area_province_id" : 20,
+		"name" : "贵港市",
+		"created_at" : "2018-01-05 14:24:26",
+		"updated_at" : "2018-01-05 14:24:26"
+	},
+	{
+		"id" : 231,
+		"area_province_id" : 20,
+		"name" : "玉林市",
+		"created_at" : "2018-01-05 14:24:26",
+		"updated_at" : "2018-01-05 14:24:26"
+	},
+	{
+		"id" : 232,
+		"area_province_id" : 20,
+		"name" : "百色市",
+		"created_at" : "2018-01-05 14:24:27",
+		"updated_at" : "2018-01-05 14:24:27"
+	},
+	{
+		"id" : 233,
+		"area_province_id" : 20,
+		"name" : "贺州市",
+		"created_at" : "2018-01-05 14:24:27",
+		"updated_at" : "2018-01-05 14:24:27"
+	},
+	{
+		"id" : 234,
+		"area_province_id" : 20,
+		"name" : "河池市",
+		"created_at" : "2018-01-05 14:24:28",
+		"updated_at" : "2018-01-05 14:24:28"
+	},
+	{
+		"id" : 235,
+		"area_province_id" : 20,
+		"name" : "来宾市",
+		"created_at" : "2018-01-05 14:24:28",
+		"updated_at" : "2018-01-05 14:24:28"
+	},
+	{
+		"id" : 236,
+		"area_province_id" : 20,
+		"name" : "崇左市",
+		"created_at" : "2018-01-05 14:24:29",
+		"updated_at" : "2018-01-05 14:24:29"
+	},
+	{
+		"id" : 237,
+		"area_province_id" : 21,
+		"name" : "海口市",
+		"created_at" : "2018-01-05 14:24:29",
+		"updated_at" : "2018-01-05 14:24:29"
+	},
+	{
+		"id" : 238,
+		"area_province_id" : 21,
+		"name" : "三亚市",
+		"created_at" : "2018-01-05 14:24:29",
+		"updated_at" : "2018-01-05 14:24:29"
+	},
+	{
+		"id" : 239,
+		"area_province_id" : 21,
+		"name" : "三沙市",
+		"created_at" : "2018-01-05 14:24:30",
+		"updated_at" : "2018-01-05 14:24:30"
+	},
+	{
+		"id" : 240,
+		"area_province_id" : 21,
+		"name" : "儋州市",
+		"created_at" : "2018-01-05 14:24:30",
+		"updated_at" : "2018-01-05 14:24:30"
+	},
+	{
+		"id" : 241,
+		"area_province_id" : 21,
+		"name" : "五指山市",
+		"created_at" : "2018-01-05 14:24:30",
+		"updated_at" : "2018-01-05 14:24:30"
+	},
+	{
+		"id" : 242,
+		"area_province_id" : 21,
+		"name" : "琼海市",
+		"created_at" : "2018-01-05 14:24:30",
+		"updated_at" : "2018-01-05 14:24:30"
+	},
+	{
+		"id" : 243,
+		"area_province_id" : 21,
+		"name" : "文昌市",
+		"created_at" : "2018-01-05 14:24:30",
+		"updated_at" : "2018-01-05 14:24:30"
+	},
+	{
+		"id" : 244,
+		"area_province_id" : 21,
+		"name" : "万宁市",
+		"created_at" : "2018-01-05 14:24:30",
+		"updated_at" : "2018-01-05 14:24:30"
+	},
+	{
+		"id" : 245,
+		"area_province_id" : 21,
+		"name" : "东方市",
+		"created_at" : "2018-01-05 14:24:30",
+		"updated_at" : "2018-01-05 14:24:30"
+	},
+	{
+		"id" : 246,
+		"area_province_id" : 21,
+		"name" : "定安县",
+		"created_at" : "2018-01-05 14:24:30",
+		"updated_at" : "2018-01-05 14:24:30"
+	},
+	{
+		"id" : 247,
+		"area_province_id" : 21,
+		"name" : "屯昌县",
+		"created_at" : "2018-01-05 14:24:31",
+		"updated_at" : "2018-01-05 14:24:31"
+	},
+	{
+		"id" : 248,
+		"area_province_id" : 21,
+		"name" : "澄迈县",
+		"created_at" : "2018-01-05 14:24:31",
+		"updated_at" : "2018-01-05 14:24:31"
+	},
+	{
+		"id" : 249,
+		"area_province_id" : 21,
+		"name" : "临高县",
+		"created_at" : "2018-01-05 14:24:31",
+		"updated_at" : "2018-01-05 14:24:31"
+	},
+	{
+		"id" : 250,
+		"area_province_id" : 21,
+		"name" : "白沙黎族自治县",
+		"created_at" : "2018-01-05 14:24:31",
+		"updated_at" : "2018-01-05 14:24:31"
+	},
+	{
+		"id" : 251,
+		"area_province_id" : 21,
+		"name" : "昌江黎族自治县",
+		"created_at" : "2018-01-05 14:24:31",
+		"updated_at" : "2018-01-05 14:24:31"
+	},
+	{
+		"id" : 252,
+		"area_province_id" : 21,
+		"name" : "乐东黎族自治县",
+		"created_at" : "2018-01-05 14:24:31",
+		"updated_at" : "2018-01-05 14:24:31"
+	},
+	{
+		"id" : 253,
+		"area_province_id" : 21,
+		"name" : "陵水黎族自治县",
+		"created_at" : "2018-01-05 14:24:31",
+		"updated_at" : "2018-01-05 14:24:31"
+	},
+	{
+		"id" : 254,
+		"area_province_id" : 21,
+		"name" : "保亭黎族苗族自治县",
+		"created_at" : "2018-01-05 14:24:31",
+		"updated_at" : "2018-01-05 14:24:31"
+	},
+	{
+		"id" : 255,
+		"area_province_id" : 21,
+		"name" : "琼中黎族苗族自治县",
+		"created_at" : "2018-01-05 14:24:31",
+		"updated_at" : "2018-01-05 14:24:31"
+	},
+	{
+		"id" : 256,
+		"area_province_id" : 22,
+		"name" : "市辖区",
+		"created_at" : "2018-01-05 14:24:32",
+		"updated_at" : "2018-01-05 14:24:32"
+	},
+	{
+		"id" : 257,
+		"area_province_id" : 22,
+		"name" : "县",
+		"created_at" : "2018-01-05 14:24:33",
+		"updated_at" : "2018-01-05 14:24:33"
+	},
+	{
+		"id" : 258,
+		"area_province_id" : 23,
+		"name" : "成都市",
+		"created_at" : "2018-01-05 14:24:34",
+		"updated_at" : "2018-01-05 14:24:34"
+	},
+	{
+		"id" : 259,
+		"area_province_id" : 23,
+		"name" : "自贡市",
+		"created_at" : "2018-01-05 14:24:35",
+		"updated_at" : "2018-01-05 14:24:35"
+	},
+	{
+		"id" : 260,
+		"area_province_id" : 23,
+		"name" : "攀枝花市",
+		"created_at" : "2018-01-05 14:24:35",
+		"updated_at" : "2018-01-05 14:24:35"
+	},
+	{
+		"id" : 261,
+		"area_province_id" : 23,
+		"name" : "泸州市",
+		"created_at" : "2018-01-05 14:24:35",
+		"updated_at" : "2018-01-05 14:24:35"
+	},
+	{
+		"id" : 262,
+		"area_province_id" : 23,
+		"name" : "德阳市",
+		"created_at" : "2018-01-05 14:24:36",
+		"updated_at" : "2018-01-05 14:24:36"
+	},
+	{
+		"id" : 263,
+		"area_province_id" : 23,
+		"name" : "绵阳市",
+		"created_at" : "2018-01-05 14:24:36",
+		"updated_at" : "2018-01-05 14:24:36"
+	},
+	{
+		"id" : 264,
+		"area_province_id" : 23,
+		"name" : "广元市",
+		"created_at" : "2018-01-05 14:24:36",
+		"updated_at" : "2018-01-05 14:24:36"
+	},
+	{
+		"id" : 265,
+		"area_province_id" : 23,
+		"name" : "遂宁市",
+		"created_at" : "2018-01-05 14:24:37",
+		"updated_at" : "2018-01-05 14:24:37"
+	},
+	{
+		"id" : 266,
+		"area_province_id" : 23,
+		"name" : "内江市",
+		"created_at" : "2018-01-05 14:24:37",
+		"updated_at" : "2018-01-05 14:24:37"
+	},
+	{
+		"id" : 267,
+		"area_province_id" : 23,
+		"name" : "乐山市",
+		"created_at" : "2018-01-05 14:24:37",
+		"updated_at" : "2018-01-05 14:24:37"
+	},
+	{
+		"id" : 268,
+		"area_province_id" : 23,
+		"name" : "南充市",
+		"created_at" : "2018-01-05 14:24:38",
+		"updated_at" : "2018-01-05 14:24:38"
+	},
+	{
+		"id" : 269,
+		"area_province_id" : 23,
+		"name" : "眉山市",
+		"created_at" : "2018-01-05 14:24:38",
+		"updated_at" : "2018-01-05 14:24:38"
+	},
+	{
+		"id" : 270,
+		"area_province_id" : 23,
+		"name" : "宜宾市",
+		"created_at" : "2018-01-05 14:24:39",
+		"updated_at" : "2018-01-05 14:24:39"
+	},
+	{
+		"id" : 271,
+		"area_province_id" : 23,
+		"name" : "广安市",
+		"created_at" : "2018-01-05 14:24:39",
+		"updated_at" : "2018-01-05 14:24:39"
+	},
+	{
+		"id" : 272,
+		"area_province_id" : 23,
+		"name" : "达州市",
+		"created_at" : "2018-01-05 14:24:39",
+		"updated_at" : "2018-01-05 14:24:39"
+	},
+	{
+		"id" : 273,
+		"area_province_id" : 23,
+		"name" : "雅安市",
+		"created_at" : "2018-01-05 14:24:40",
+		"updated_at" : "2018-01-05 14:24:40"
+	},
+	{
+		"id" : 274,
+		"area_province_id" : 23,
+		"name" : "巴中市",
+		"created_at" : "2018-01-05 14:24:40",
+		"updated_at" : "2018-01-05 14:24:40"
+	},
+	{
+		"id" : 275,
+		"area_province_id" : 23,
+		"name" : "资阳市",
+		"created_at" : "2018-01-05 14:24:41",
+		"updated_at" : "2018-01-05 14:24:41"
+	},
+	{
+		"id" : 276,
+		"area_province_id" : 23,
+		"name" : "阿坝藏族羌族自治州",
+		"created_at" : "2018-01-05 14:24:41",
+		"updated_at" : "2018-01-05 14:24:41"
+	},
+	{
+		"id" : 277,
+		"area_province_id" : 23,
+		"name" : "甘孜藏族自治州",
+		"created_at" : "2018-01-05 14:24:41",
+		"updated_at" : "2018-01-05 14:24:41"
+	},
+	{
+		"id" : 278,
+		"area_province_id" : 23,
+		"name" : "凉山彝族自治州",
+		"created_at" : "2018-01-05 14:24:42",
+		"updated_at" : "2018-01-05 14:24:42"
+	},
+	{
+		"id" : 279,
+		"area_province_id" : 24,
+		"name" : "贵阳市",
+		"created_at" : "2018-01-05 14:24:43",
+		"updated_at" : "2018-01-05 14:24:43"
+	},
+	{
+		"id" : 280,
+		"area_province_id" : 24,
+		"name" : "六盘水市",
+		"created_at" : "2018-01-05 14:24:44",
+		"updated_at" : "2018-01-05 14:24:44"
+	},
+	{
+		"id" : 281,
+		"area_province_id" : 24,
+		"name" : "遵义市",
+		"created_at" : "2018-01-05 14:24:44",
+		"updated_at" : "2018-01-05 14:24:44"
+	},
+	{
+		"id" : 282,
+		"area_province_id" : 24,
+		"name" : "安顺市",
+		"created_at" : "2018-01-05 14:24:45",
+		"updated_at" : "2018-01-05 14:24:45"
+	},
+	{
+		"id" : 283,
+		"area_province_id" : 24,
+		"name" : "毕节市",
+		"created_at" : "2018-01-05 14:24:45",
+		"updated_at" : "2018-01-05 14:24:45"
+	},
+	{
+		"id" : 284,
+		"area_province_id" : 24,
+		"name" : "铜仁市",
+		"created_at" : "2018-01-05 14:24:45",
+		"updated_at" : "2018-01-05 14:24:45"
+	},
+	{
+		"id" : 285,
+		"area_province_id" : 24,
+		"name" : "黔西南布依族苗族自治州",
+		"created_at" : "2018-01-05 14:24:46",
+		"updated_at" : "2018-01-05 14:24:46"
+	},
+	{
+		"id" : 286,
+		"area_province_id" : 24,
+		"name" : "黔东南苗族侗族自治州",
+		"created_at" : "2018-01-05 14:24:46",
+		"updated_at" : "2018-01-05 14:24:46"
+	},
+	{
+		"id" : 287,
+		"area_province_id" : 24,
+		"name" : "黔南布依族苗族自治州",
+		"created_at" : "2018-01-05 14:24:47",
+		"updated_at" : "2018-01-05 14:24:47"
+	},
+	{
+		"id" : 288,
+		"area_province_id" : 25,
+		"name" : "昆明市",
+		"created_at" : "2018-01-05 14:24:48",
+		"updated_at" : "2018-01-05 14:24:48"
+	},
+	{
+		"id" : 289,
+		"area_province_id" : 25,
+		"name" : "曲靖市",
+		"created_at" : "2018-01-05 14:24:49",
+		"updated_at" : "2018-01-05 14:24:49"
+	},
+	{
+		"id" : 290,
+		"area_province_id" : 25,
+		"name" : "玉溪市",
+		"created_at" : "2018-01-05 14:24:49",
+		"updated_at" : "2018-01-05 14:24:49"
+	},
+	{
+		"id" : 291,
+		"area_province_id" : 25,
+		"name" : "保山市",
+		"created_at" : "2018-01-05 14:24:50",
+		"updated_at" : "2018-01-05 14:24:50"
+	},
+	{
+		"id" : 292,
+		"area_province_id" : 25,
+		"name" : "昭通市",
+		"created_at" : "2018-01-05 14:24:50",
+		"updated_at" : "2018-01-05 14:24:50"
+	},
+	{
+		"id" : 293,
+		"area_province_id" : 25,
+		"name" : "丽江市",
+		"created_at" : "2018-01-05 14:24:50",
+		"updated_at" : "2018-01-05 14:24:50"
+	},
+	{
+		"id" : 294,
+		"area_province_id" : 25,
+		"name" : "普洱市",
+		"created_at" : "2018-01-05 14:24:51",
+		"updated_at" : "2018-01-05 14:24:51"
+	},
+	{
+		"id" : 295,
+		"area_province_id" : 25,
+		"name" : "临沧市",
+		"created_at" : "2018-01-05 14:24:51",
+		"updated_at" : "2018-01-05 14:24:51"
+	},
+	{
+		"id" : 296,
+		"area_province_id" : 25,
+		"name" : "楚雄彝族自治州",
+		"created_at" : "2018-01-05 14:24:51",
+		"updated_at" : "2018-01-05 14:24:51"
+	},
+	{
+		"id" : 297,
+		"area_province_id" : 25,
+		"name" : "红河哈尼族彝族自治州",
+		"created_at" : "2018-01-05 14:24:52",
+		"updated_at" : "2018-01-05 14:24:52"
+	},
+	{
+		"id" : 298,
+		"area_province_id" : 25,
+		"name" : "文山壮族苗族自治州",
+		"created_at" : "2018-01-05 14:24:52",
+		"updated_at" : "2018-01-05 14:24:52"
+	},
+	{
+		"id" : 299,
+		"area_province_id" : 25,
+		"name" : "西双版纳傣族自治州",
+		"created_at" : "2018-01-05 14:24:53",
+		"updated_at" : "2018-01-05 14:24:53"
+	},
+	{
+		"id" : 300,
+		"area_province_id" : 25,
+		"name" : "大理白族自治州",
+		"created_at" : "2018-01-05 14:24:53",
+		"updated_at" : "2018-01-05 14:24:53"
+	},
+	{
+		"id" : 301,
+		"area_province_id" : 25,
+		"name" : "德宏傣族景颇族自治州",
+		"created_at" : "2018-01-05 14:24:54",
+		"updated_at" : "2018-01-05 14:24:54"
+	},
+	{
+		"id" : 302,
+		"area_province_id" : 25,
+		"name" : "怒江傈僳族自治州",
+		"created_at" : "2018-01-05 14:24:54",
+		"updated_at" : "2018-01-05 14:24:54"
+	},
+	{
+		"id" : 303,
+		"area_province_id" : 25,
+		"name" : "迪庆藏族自治州",
+		"created_at" : "2018-01-05 14:24:54",
+		"updated_at" : "2018-01-05 14:24:54"
+	},
+	{
+		"id" : 304,
+		"area_province_id" : 26,
+		"name" : "拉萨市",
+		"created_at" : "2018-01-05 14:24:54",
+		"updated_at" : "2018-01-05 14:24:54"
+	},
+	{
+		"id" : 305,
+		"area_province_id" : 26,
+		"name" : "日喀则市",
+		"created_at" : "2018-01-05 14:24:55",
+		"updated_at" : "2018-01-05 14:24:55"
+	},
+	{
+		"id" : 306,
+		"area_province_id" : 26,
+		"name" : "昌都市",
+		"created_at" : "2018-01-05 14:24:55",
+		"updated_at" : "2018-01-05 14:24:55"
+	},
+	{
+		"id" : 307,
+		"area_province_id" : 26,
+		"name" : "林芝市",
+		"created_at" : "2018-01-05 14:24:56",
+		"updated_at" : "2018-01-05 14:24:56"
+	},
+	{
+		"id" : 308,
+		"area_province_id" : 26,
+		"name" : "山南市",
+		"created_at" : "2018-01-05 14:24:56",
+		"updated_at" : "2018-01-05 14:24:56"
+	},
+	{
+		"id" : 309,
+		"area_province_id" : 26,
+		"name" : "那曲地区",
+		"created_at" : "2018-01-05 14:24:57",
+		"updated_at" : "2018-01-05 14:24:57"
+	},
+	{
+		"id" : 310,
+		"area_province_id" : 26,
+		"name" : "阿里地区",
+		"created_at" : "2018-01-05 14:24:57",
+		"updated_at" : "2018-01-05 14:24:57"
+	},
+	{
+		"id" : 311,
+		"area_province_id" : 27,
+		"name" : "西安市",
+		"created_at" : "2018-01-05 14:24:58",
+		"updated_at" : "2018-01-05 14:24:58"
+	},
+	{
+		"id" : 312,
+		"area_province_id" : 27,
+		"name" : "铜川市",
+		"created_at" : "2018-01-05 14:24:58",
+		"updated_at" : "2018-01-05 14:24:58"
+	},
+	{
+		"id" : 313,
+		"area_province_id" : 27,
+		"name" : "宝鸡市",
+		"created_at" : "2018-01-05 14:24:59",
+		"updated_at" : "2018-01-05 14:24:59"
+	},
+	{
+		"id" : 314,
+		"area_province_id" : 27,
+		"name" : "咸阳市",
+		"created_at" : "2018-01-05 14:24:59",
+		"updated_at" : "2018-01-05 14:24:59"
+	},
+	{
+		"id" : 315,
+		"area_province_id" : 27,
+		"name" : "渭南市",
+		"created_at" : "2018-01-05 14:25:00",
+		"updated_at" : "2018-01-05 14:25:00"
+	},
+	{
+		"id" : 316,
+		"area_province_id" : 27,
+		"name" : "延安市",
+		"created_at" : "2018-01-05 14:25:00",
+		"updated_at" : "2018-01-05 14:25:00"
+	},
+	{
+		"id" : 317,
+		"area_province_id" : 27,
+		"name" : "汉中市",
+		"created_at" : "2018-01-05 14:25:01",
+		"updated_at" : "2018-01-05 14:25:01"
+	},
+	{
+		"id" : 318,
+		"area_province_id" : 27,
+		"name" : "榆林市",
+		"created_at" : "2018-01-05 14:25:02",
+		"updated_at" : "2018-01-05 14:25:02"
+	},
+	{
+		"id" : 319,
+		"area_province_id" : 27,
+		"name" : "安康市",
+		"created_at" : "2018-01-05 14:25:02",
+		"updated_at" : "2018-01-05 14:25:02"
+	},
+	{
+		"id" : 320,
+		"area_province_id" : 27,
+		"name" : "商洛市",
+		"created_at" : "2018-01-05 14:25:03",
+		"updated_at" : "2018-01-05 14:25:03"
+	},
+	{
+		"id" : 321,
+		"area_province_id" : 28,
+		"name" : "兰州市",
+		"created_at" : "2018-01-05 14:25:03",
+		"updated_at" : "2018-01-05 14:25:03"
+	},
+	{
+		"id" : 322,
+		"area_province_id" : 28,
+		"name" : "嘉峪关市",
+		"created_at" : "2018-01-05 14:25:04",
+		"updated_at" : "2018-01-05 14:25:04"
+	},
+	{
+		"id" : 323,
+		"area_province_id" : 28,
+		"name" : "金昌市",
+		"created_at" : "2018-01-05 14:25:04",
+		"updated_at" : "2018-01-05 14:25:04"
+	},
+	{
+		"id" : 324,
+		"area_province_id" : 28,
+		"name" : "白银市",
+		"created_at" : "2018-01-05 14:25:04",
+		"updated_at" : "2018-01-05 14:25:04"
+	},
+	{
+		"id" : 325,
+		"area_province_id" : 28,
+		"name" : "天水市",
+		"created_at" : "2018-01-05 14:25:04",
+		"updated_at" : "2018-01-05 14:25:04"
+	},
+	{
+		"id" : 326,
+		"area_province_id" : 28,
+		"name" : "武威市",
+		"created_at" : "2018-01-05 14:25:05",
+		"updated_at" : "2018-01-05 14:25:05"
+	},
+	{
+		"id" : 327,
+		"area_province_id" : 28,
+		"name" : "张掖市",
+		"created_at" : "2018-01-05 14:25:05",
+		"updated_at" : "2018-01-05 14:25:05"
+	},
+	{
+		"id" : 328,
+		"area_province_id" : 28,
+		"name" : "平凉市",
+		"created_at" : "2018-01-05 14:25:05",
+		"updated_at" : "2018-01-05 14:25:05"
+	},
+	{
+		"id" : 329,
+		"area_province_id" : 28,
+		"name" : "酒泉市",
+		"created_at" : "2018-01-05 14:25:05",
+		"updated_at" : "2018-01-05 14:25:05"
+	},
+	{
+		"id" : 330,
+		"area_province_id" : 28,
+		"name" : "庆阳市",
+		"created_at" : "2018-01-05 14:25:06",
+		"updated_at" : "2018-01-05 14:25:06"
+	},
+	{
+		"id" : 331,
+		"area_province_id" : 28,
+		"name" : "定西市",
+		"created_at" : "2018-01-05 14:25:06",
+		"updated_at" : "2018-01-05 14:25:06"
+	},
+	{
+		"id" : 332,
+		"area_province_id" : 28,
+		"name" : "陇南市",
+		"created_at" : "2018-01-05 14:25:07",
+		"updated_at" : "2018-01-05 14:25:07"
+	},
+	{
+		"id" : 333,
+		"area_province_id" : 28,
+		"name" : "临夏回族自治州",
+		"created_at" : "2018-01-05 14:25:07",
+		"updated_at" : "2018-01-05 14:25:07"
+	},
+	{
+		"id" : 334,
+		"area_province_id" : 28,
+		"name" : "甘南藏族自治州",
+		"created_at" : "2018-01-05 14:25:08",
+		"updated_at" : "2018-01-05 14:25:08"
+	},
+	{
+		"id" : 335,
+		"area_province_id" : 29,
+		"name" : "西宁市",
+		"created_at" : "2018-01-05 14:25:08",
+		"updated_at" : "2018-01-05 14:25:08"
+	},
+	{
+		"id" : 336,
+		"area_province_id" : 29,
+		"name" : "海东市",
+		"created_at" : "2018-01-05 14:25:09",
+		"updated_at" : "2018-01-05 14:25:09"
+	},
+	{
+		"id" : 337,
+		"area_province_id" : 29,
+		"name" : "海北藏族自治州",
+		"created_at" : "2018-01-05 14:25:09",
+		"updated_at" : "2018-01-05 14:25:09"
+	},
+	{
+		"id" : 338,
+		"area_province_id" : 29,
+		"name" : "黄南藏族自治州",
+		"created_at" : "2018-01-05 14:25:09",
+		"updated_at" : "2018-01-05 14:25:09"
+	},
+	{
+		"id" : 339,
+		"area_province_id" : 29,
+		"name" : "海南藏族自治州",
+		"created_at" : "2018-01-05 14:25:10",
+		"updated_at" : "2018-01-05 14:25:10"
+	},
+	{
+		"id" : 340,
+		"area_province_id" : 29,
+		"name" : "果洛藏族自治州",
+		"created_at" : "2018-01-05 14:25:10",
+		"updated_at" : "2018-01-05 14:25:10"
+	},
+	{
+		"id" : 341,
+		"area_province_id" : 29,
+		"name" : "玉树藏族自治州",
+		"created_at" : "2018-01-05 14:25:10",
+		"updated_at" : "2018-01-05 14:25:10"
+	},
+	{
+		"id" : 342,
+		"area_province_id" : 29,
+		"name" : "海西蒙古族藏族自治州",
+		"created_at" : "2018-01-05 14:25:11",
+		"updated_at" : "2018-01-05 14:25:11"
+	},
+	{
+		"id" : 343,
+		"area_province_id" : 30,
+		"name" : "银川市",
+		"created_at" : "2018-01-05 14:25:11",
+		"updated_at" : "2018-01-05 14:25:11"
+	},
+	{
+		"id" : 344,
+		"area_province_id" : 30,
+		"name" : "石嘴山市",
+		"created_at" : "2018-01-05 14:25:11",
+		"updated_at" : "2018-01-05 14:25:11"
+	},
+	{
+		"id" : 345,
+		"area_province_id" : 30,
+		"name" : "吴忠市",
+		"created_at" : "2018-01-05 14:25:11",
+		"updated_at" : "2018-01-05 14:25:11"
+	},
+	{
+		"id" : 346,
+		"area_province_id" : 30,
+		"name" : "固原市",
+		"created_at" : "2018-01-05 14:25:12",
+		"updated_at" : "2018-01-05 14:25:12"
+	},
+	{
+		"id" : 347,
+		"area_province_id" : 30,
+		"name" : "中卫市",
+		"created_at" : "2018-01-05 14:25:12",
+		"updated_at" : "2018-01-05 14:25:12"
+	},
+	{
+		"id" : 348,
+		"area_province_id" : 31,
+		"name" : "乌鲁木齐市",
+		"created_at" : "2018-01-05 14:25:12",
+		"updated_at" : "2018-01-05 14:25:12"
+	},
+	{
+		"id" : 349,
+		"area_province_id" : 31,
+		"name" : "克拉玛依市",
+		"created_at" : "2018-01-05 14:25:13",
+		"updated_at" : "2018-01-05 14:25:13"
+	},
+	{
+		"id" : 350,
+		"area_province_id" : 31,
+		"name" : "吐鲁番市",
+		"created_at" : "2018-01-05 14:25:13",
+		"updated_at" : "2018-01-05 14:25:13"
+	},
+	{
+		"id" : 351,
+		"area_province_id" : 31,
+		"name" : "哈密市",
+		"created_at" : "2018-01-05 14:25:13",
+		"updated_at" : "2018-01-05 14:25:13"
+	},
+	{
+		"id" : 352,
+		"area_province_id" : 31,
+		"name" : "昌吉回族自治州",
+		"created_at" : "2018-01-05 14:25:13",
+		"updated_at" : "2018-01-05 14:25:13"
+	},
+	{
+		"id" : 353,
+		"area_province_id" : 31,
+		"name" : "博尔塔拉蒙古自治州",
+		"created_at" : "2018-01-05 14:25:14",
+		"updated_at" : "2018-01-05 14:25:14"
+	},
+	{
+		"id" : 354,
+		"area_province_id" : 31,
+		"name" : "巴音郭楞蒙古自治州",
+		"created_at" : "2018-01-05 14:25:14",
+		"updated_at" : "2018-01-05 14:25:14"
+	},
+	{
+		"id" : 355,
+		"area_province_id" : 31,
+		"name" : "阿克苏地区",
+		"created_at" : "2018-01-05 14:25:15",
+		"updated_at" : "2018-01-05 14:25:15"
+	},
+	{
+		"id" : 356,
+		"area_province_id" : 31,
+		"name" : "克孜勒苏柯尔克孜自治州",
+		"created_at" : "2018-01-05 14:25:15",
+		"updated_at" : "2018-01-05 14:25:15"
+	},
+	{
+		"id" : 357,
+		"area_province_id" : 31,
+		"name" : "喀什地区",
+		"created_at" : "2018-01-05 14:25:16",
+		"updated_at" : "2018-01-05 14:25:16"
+	},
+	{
+		"id" : 358,
+		"area_province_id" : 31,
+		"name" : "和田地区",
+		"created_at" : "2018-01-05 14:25:16",
+		"updated_at" : "2018-01-05 14:25:16"
+	},
+	{
+		"id" : 359,
+		"area_province_id" : 31,
+		"name" : "伊犁哈萨克自治州",
+		"created_at" : "2018-01-05 14:25:17",
+		"updated_at" : "2018-01-05 14:25:17"
+	},
+	{
+		"id" : 360,
+		"area_province_id" : 31,
+		"name" : "塔城地区",
+		"created_at" : "2018-01-05 14:25:17",
+		"updated_at" : "2018-01-05 14:25:17"
+	},
+	{
+		"id" : 361,
+		"area_province_id" : 31,
+		"name" : "阿勒泰地区",
+		"created_at" : "2018-01-05 14:25:17",
+		"updated_at" : "2018-01-05 14:25:17"
+	},
+	{
+		"id" : 362,
+		"area_province_id" : 31,
+		"name" : "石河子市",
+		"created_at" : "2018-01-05 14:25:18",
+		"updated_at" : "2018-01-05 14:25:18"
+	},
+	{
+		"id" : 363,
+		"area_province_id" : 31,
+		"name" : "阿拉尔市",
+		"created_at" : "2018-01-05 14:25:18",
+		"updated_at" : "2018-01-05 14:25:18"
+	},
+	{
+		"id" : 364,
+		"area_province_id" : 31,
+		"name" : "图木舒克市",
+		"created_at" : "2018-01-05 14:25:18",
+		"updated_at" : "2018-01-05 14:25:18"
+	},
+	{
+		"id" : 365,
+		"area_province_id" : 31,
+		"name" : "五家渠市",
+		"created_at" : "2018-01-05 14:25:18",
+		"updated_at" : "2018-01-05 14:25:18"
+	},
+	{
+		"id" : 366,
+		"area_province_id" : 31,
+		"name" : "铁门关市",
+		"created_at" : "2018-01-05 14:25:18",
+		"updated_at" : "2018-01-05 14:25:18"
+	},
+	{
+		"id" : 367,
+		"area_province_id" : 33,
+		"name" : "中西區",
+		"created_at" : "2018-01-05 14:27:42",
+		"updated_at" : "2018-01-05 14:27:42"
+	},
+	{
+		"id" : 368,
+		"area_province_id" : 33,
+		"name" : "灣仔區",
+		"created_at" : "2018-01-05 14:27:42",
+		"updated_at" : "2018-01-05 14:27:42"
+	},
+	{
+		"id" : 369,
+		"area_province_id" : 33,
+		"name" : "東區",
+		"created_at" : "2018-01-05 14:27:42",
+		"updated_at" : "2018-01-05 14:27:42"
+	},
+	{
+		"id" : 370,
+		"area_province_id" : 33,
+		"name" : "南區",
+		"created_at" : "2018-01-05 14:27:42",
+		"updated_at" : "2018-01-05 14:27:42"
+	},
+	{
+		"id" : 371,
+		"area_province_id" : 33,
+		"name" : "油尖旺區",
+		"created_at" : "2018-01-05 14:27:42",
+		"updated_at" : "2018-01-05 14:27:42"
+	},
+	{
+		"id" : 372,
+		"area_province_id" : 33,
+		"name" : "深水埗區",
+		"created_at" : "2018-01-05 14:27:42",
+		"updated_at" : "2018-01-05 14:27:42"
+	},
+	{
+		"id" : 373,
+		"area_province_id" : 33,
+		"name" : "九龍城區",
+		"created_at" : "2018-01-05 14:27:42",
+		"updated_at" : "2018-01-05 14:27:42"
+	},
+	{
+		"id" : 374,
+		"area_province_id" : 33,
+		"name" : "黃大仙區",
+		"created_at" : "2018-01-05 14:27:42",
+		"updated_at" : "2018-01-05 14:27:42"
+	},
+	{
+		"id" : 375,
+		"area_province_id" : 33,
+		"name" : "觀塘區",
+		"created_at" : "2018-01-05 14:27:42",
+		"updated_at" : "2018-01-05 14:27:42"
+	},
+	{
+		"id" : 376,
+		"area_province_id" : 33,
+		"name" : "荃灣區",
+		"created_at" : "2018-01-05 14:27:42",
+		"updated_at" : "2018-01-05 14:27:42"
+	},
+	{
+		"id" : 377,
+		"area_province_id" : 33,
+		"name" : "屯門區",
+		"created_at" : "2018-01-05 14:27:42",
+		"updated_at" : "2018-01-05 14:27:42"
+	},
+	{
+		"id" : 378,
+		"area_province_id" : 33,
+		"name" : "元朗區",
+		"created_at" : "2018-01-05 14:27:43",
+		"updated_at" : "2018-01-05 14:27:43"
+	},
+	{
+		"id" : 379,
+		"area_province_id" : 33,
+		"name" : "北區",
+		"created_at" : "2018-01-05 14:27:43",
+		"updated_at" : "2018-01-05 14:27:43"
+	},
+	{
+		"id" : 380,
+		"area_province_id" : 33,
+		"name" : "大埔區",
+		"created_at" : "2018-01-05 14:27:43",
+		"updated_at" : "2018-01-05 14:27:43"
+	},
+	{
+		"id" : 381,
+		"area_province_id" : 33,
+		"name" : "西貢區",
+		"created_at" : "2018-01-05 14:27:43",
+		"updated_at" : "2018-01-05 14:27:43"
+	},
+	{
+		"id" : 382,
+		"area_province_id" : 33,
+		"name" : "沙田區",
+		"created_at" : "2018-01-05 14:27:43",
+		"updated_at" : "2018-01-05 14:27:43"
+	},
+	{
+		"id" : 383,
+		"area_province_id" : 33,
+		"name" : "葵青區",
+		"created_at" : "2018-01-05 14:27:43",
+		"updated_at" : "2018-01-05 14:27:43"
+	},
+	{
+		"id" : 384,
+		"area_province_id" : 33,
+		"name" : "離島區",
+		"created_at" : "2018-01-05 14:27:43",
+		"updated_at" : "2018-01-05 14:27:43"
+	},
+	{
+		"id" : 385,
+		"area_province_id" : 34,
+		"name" : "花地瑪堂區",
+		"created_at" : "2018-01-05 14:27:43",
+		"updated_at" : "2018-01-05 14:27:43"
+	},
+	{
+		"id" : 386,
+		"area_province_id" : 34,
+		"name" : "花王堂區",
+		"created_at" : "2018-01-05 14:27:43",
+		"updated_at" : "2018-01-05 14:27:43"
+	},
+	{
+		"id" : 387,
+		"area_province_id" : 34,
+		"name" : "望德堂區",
+		"created_at" : "2018-01-05 14:27:44",
+		"updated_at" : "2018-01-05 14:27:44"
+	},
+	{
+		"id" : 388,
+		"area_province_id" : 34,
+		"name" : "大堂區",
+		"created_at" : "2018-01-05 14:27:44",
+		"updated_at" : "2018-01-05 14:27:44"
+	},
+	{
+		"id" : 389,
+		"area_province_id" : 34,
+		"name" : "風順堂區",
+		"created_at" : "2018-01-05 14:27:44",
+		"updated_at" : "2018-01-05 14:27:44"
+	},
+	{
+		"id" : 390,
+		"area_province_id" : 34,
+		"name" : "嘉模堂區",
+		"created_at" : "2018-01-05 14:27:44",
+		"updated_at" : "2018-01-05 14:27:44"
+	},
+	{
+		"id" : 391,
+		"area_province_id" : 34,
+		"name" : "路氹填海區",
+		"created_at" : "2018-01-05 14:27:44",
+		"updated_at" : "2018-01-05 14:27:44"
+	},
+	{
+		"id" : 392,
+		"area_province_id" : 34,
+		"name" : "聖方濟各堂區",
+		"created_at" : "2018-01-05 14:27:44",
+		"updated_at" : "2018-01-05 14:27:44"
+	},
+	{
+		"id" : 393,
+		"area_province_id" : 32,
+		"name" : "台湾省",
+		"created_at" : "2018-01-05 14:27:44",
+		"updated_at" : "2018-01-05 14:27:44"
+	}
+]

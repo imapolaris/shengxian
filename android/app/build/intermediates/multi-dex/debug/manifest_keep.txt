@@ -1,0 +1,14 @@
+-keep class com.shengxian.MainApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.shengxian.MainActivity { <init>(); }
+-keep class com.shengxian.wxapi.WXEntryActivity { <init>(); }
+-keep class com.shengxian.wxapi.WXPayEntryActivity { <init>(); }
+-keep class com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+-keep class com.amap.api.location.APSService { <init>(); }
+-keep class android.support.v4.content.FileProvider { <init>(); }
+-keep class com.yalantis.ucrop.UCropActivity { <init>(); }
+-keep class com.alipay.sdk.app.H5PayActivity { <init>(); }
+-keep class com.alipay.sdk.auth.AuthActivity { <init>(); }
+-keep class com.masteratul.exceptionhandler.DefaultErrorScreen { <init>(); }

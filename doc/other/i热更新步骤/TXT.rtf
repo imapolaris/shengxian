@@ -1,0 +1,116 @@
+{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset134 .PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red53\green53\blue53;}
+{\*\expandedcolortbl;;\cssrgb\c27059\c27059\c27059;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab560
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f0\fs24 \cf2 1.
+\f1 \'b0\'b2\'d7\'b0
+\f0 CodePush CLI\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf2 \
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1 \cf2 \'d6\'d5\'b6\'cb\'ca\'e4\'c8\'eb
+\f0 \
+npm install -g code-push-cli\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf2 \
+\pard\pardeftab560\slleading20\partightenfactor0
+\cf2 2.
+\f1 \'d7\'a2\'b2\'e1
+\f0 CodePush\
+
+\f1 \'d6\'d5\'b6\'cb\'ca\'e4\'c8\'eb
+\f0 \
+code-push register\
+
+\f1 \'d6\'ae\'ba\'f3\'bb\'e1\'d3\'d0\'d3\'d0\'d2\'bb\'b8\'f6\'cd\'f8\'d2\'b3\'bd\'f8\'d0\'d0\'ca\'da\'c8\'a8\'b5\'c7\'c2\'bc,\'d7\'a2\'b2\'e1\'d6\'ae\'ba\'f3\'bb\'e1\'d3\'d0\'d2\'bb\'b8\'f6
+\f0 key
+\f1 ,\'b8\'b4\'d6\'c6\'d5\'e2\'b8\'f6
+\f0 key
+\f1 \'b5\'bd\'d6\'d5\'b6\'cb
+\f0 \
+
+\f1 \'d3\'a6\'b8\'c3\'ca\'c7\'d7\'d4\'b6\'af\'b5\'c7\'c2\'bc\'c1\'cb,\'bf\'c9\'d2\'d4\'ca\'b9\'d3\'c3\'d6\'d5\'b6\'cb\'c3\'fc\'c1\'ee
+\f0 code-push login 
+\f1 ,\'d1\'e9\'d6\'a4
+\f0 \
+3.
+\f1 \'d7\'a2\'b2\'e1\'d2\'bb\'b8\'f6
+\f0 App
+\f1 ,\'bb\'e1\'b7\'b5\'bb\'d8\'c1\'bd\'b8\'f6
+\f0 deployment key
+\f1 ,
+\f0 Staging
+\f1 \'ca\'c7\'b2\'e2\'ca\'d4\'b5\'c4,
+\f0 Production
+\f1 \'ca\'c7\'b7\'a2\'b2\'bc\'b5\'c4,\'b0\'d1\'d5\'e2\'b8\'f6
+\f0 key
+\f1 \'d2\'aa\'bc\'c7\'cf\'c2
+\f0 \
+
+\f1 \'cc\'ed\'bc\'d3
+\f0 iOS
+\f1 \'d3\'a6\'d3\'c3
+\f0 \
+code-push app add ShengXian ios react-native\
+
+\f1 \'cc\'ed\'bc\'d3
+\f0 Android
+\f1 \'d3\'a6\'d3\'c3
+\f0 \
+code-push app add ShengXian_Android android react-native\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf2 \
+\pard\pardeftab560\slleading20\partightenfactor0
+\cf2 4.
+\f1 \'bf\'c9\'d2\'d4\'cd\'a8\'b9\'fd
+\f0 code-push app list
+\f1 \'b2\'e9\'bf\'b4\'cc\'ed\'bc\'d3\'b5\'c4
+\f0 app\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf2 \
+\pard\pardeftab560\slleading20\partightenfactor0
+\cf2 iOS
+\f1 \'b6\'cb
+\f0 \
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf2 {{\NeXTGraphic Pasted Graphic.tiff \width21180 \height10820 \appleattachmentpadding0 \appleembedtype0 \appleaqc
+}¬}\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf2 \
+\pard\pardeftab560\slleading20\partightenfactor0
+\cf2 \
+
+\f1 \'b7\'a2\'b2\'bc\'b8\'fc\'d0\'c2\'b0\'fc\'b5\'c4\'b2\'bd\'d6\'e8
+\f0 \
+1.cd 
+\f1 \'b5\'bd\'b9\'a4\'b3\'cc\'c4\'bf\'c2\'bc
+\f0 react-native bundle --entry-file index.js --bundle-output ./bundle/ios/main.jsbundle --platform ios --assets-dest ./bundle/ios --dev false\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf2 \
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1 \cf2 \'c8\'bb\'ba\'f3\'bd\'ab\'c9\'fa\'b3\'c9
+\f0 main.jsbundle
+\f1 \'ba\'cd
+\f0 asset
+\f1 \'cd\'cf\'b5\'bd
+\f0 ios
+\f1 \'c4\'bf\'c2\'bc\'d6\'d0
+\f0 \
+
+\f1 \'c3\'fc\'c1\'ee\'d6\'d5\'b6\'cb\'c9\'cf\'b4\'ab
+\f0 \
+--m true
+\f1 \'b1\'ed\'ca\'be\'c7\'bf\'d6\'c6\'b8\'fc\'d0\'c2
+\f0 \
+code-push release-react iOSRNHybrid ios --t 1.0.0 --dev false --d Production --des "
+\f1 \'d5\'e2\'ca\'c7\'b5\'da\'d2\'bb\'b8\'f6\'b8\'fc\'d0\'c2\'b0\'fc
+\f0 " --m true\
+
+\f1 \'d6\'d8\'d0\'c2\'c6\'f4\'b6\'af
+\f0 app
+\f1 \'be\'cd\'c4\'dc\'bf\'b4\'b5\'bd\'c1\'cb}
